@@ -1,3 +1,5 @@
+const core = require("@actions/core");
+
 const fs = require("fs");
 const axios = require("axios");
 const FormData = require('form-data');
@@ -14,10 +16,11 @@ async function downloadData(path) {
   const pageDOM = new JSDOM(pageRequest.data, {virtualConsole});
 
   // Scrape overall pct
-  const overallPct = pageDOM.window.document.querySelector("#ContentPlaceHolder1_lblPcnt").innerHTML.slice(0, -1);
+  const pctDiv = pageDOM.window.document.querySelector("#ctl00_ContentPlaceHolder1_lblPcnt");
+  const overallPct = pctDiv && pctDiv.innerHTML.slice(0, -1);
 
   // Compile form data
-  const formInputs = Array.from(pageDOM.window.document.querySelectorAll("#form1 input"));
+  const formInputs = Array.from(pageDOM.window.document.querySelectorAll("#aspnetForm input"));
   const form = new FormData();
   form.append("__EVENTTARGET", "ctl00$ContentPlaceHolder1$btnExport");
   formInputs.forEach(input => {
@@ -81,7 +84,7 @@ async function main() {
   try {
     await downloadData("attendance-data.json");
   } catch (e) {
-    console.error(e);
+    core.setFailed(e);
   }
 }
 
