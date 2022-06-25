@@ -6,6 +6,2310 @@
     "%ATTD": "80.90"
   },
   {
+    "SCHOOL": "25Q022",
+    "SCHOOL NAME": "P.S. 022 THOMAS JEFFERSON",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "94.79"
+  },
+  {
+    "SCHOOL": "25Q024",
+    "SCHOOL NAME": "P.S. 024 ANDREW JACKSON",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "93.93"
+  },
+  {
+    "SCHOOL": "25Q025",
+    "SCHOOL NAME": "I.S. 025 ADRIEN BLOCK",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "83.44"
+  },
+  {
+    "SCHOOL": "25Q029",
+    "SCHOOL NAME": "P.S. 029 QUEENS",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "90.72"
+  },
+  {
+    "SCHOOL": "25Q032",
+    "SCHOOL NAME": "P.S. 032 STATE STREET",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "95.18"
+  },
+  {
+    "SCHOOL": "25Q079",
+    "SCHOOL NAME": "P.S. 079 FRANCIS LEWIS",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "91.84"
+  },
+  {
+    "SCHOOL": "25Q107",
+    "SCHOOL NAME": "P.S. 107 THOMAS A DOOLEY",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "91.29"
+  },
+  {
+    "SCHOOL": "25Q120",
+    "SCHOOL NAME": "P.S. 120 QUEENS",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "94.13"
+  },
+  {
+    "SCHOOL": "25Q129",
+    "SCHOOL NAME": "P.S. 129 PATRICIA LARKIN",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "89.61"
+  },
+  {
+    "SCHOOL": "25Q130",
+    "SCHOOL NAME": "P.S. 130",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "93.33"
+  },
+  {
+    "SCHOOL": "25Q154",
+    "SCHOOL NAME": "P.S. 154 QUEENS",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "82.45"
+  },
+  {
+    "SCHOOL": "25Q163",
+    "SCHOOL NAME": "P.S. 163 FLUSHING HEIGHTS",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "95.22"
+  },
+  {
+    "SCHOOL": "25Q164",
+    "SCHOOL NAME": "P.S. 164 QUEENS VALLEY",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "88.69"
+  },
+  {
+    "SCHOOL": "25Q165",
+    "SCHOOL NAME": "P.S. 165 EDITH K. BERGTRAUM",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "88.04"
+  },
+  {
+    "SCHOOL": "25Q169",
+    "SCHOOL NAME": "P.S. 169 BAY TERRACE",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "93.05"
+  },
+  {
+    "SCHOOL": "25Q184",
+    "SCHOOL NAME": "P.S. 184 FLUSHING MANOR",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "94.11"
+  },
+  {
+    "SCHOOL": "25Q185",
+    "SCHOOL NAME": "J.H.S. 185 EDWARD BLEEKER",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "90.00"
+  },
+  {
+    "SCHOOL": "25Q189",
+    "SCHOOL NAME": "J.H.S. 189 DANIEL CARTER BEARD",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "93.52"
+  },
+  {
+    "SCHOOL": "25Q193",
+    "SCHOOL NAME": "P.S. 193 ALFRED J. KENNEDY",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "91.34"
+  },
+  {
+    "SCHOOL": "25Q194",
+    "SCHOOL NAME": "J.H.S. 194 WILLIAM CARR",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "84.93"
+  },
+  {
+    "SCHOOL": "25Q200",
+    "SCHOOL NAME": "P.S. M.S. 200   THE MAGNET SCHOOL OF GLOBAL STUDIE",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "89.62"
+  },
+  {
+    "SCHOOL": "25Q201",
+    "SCHOOL NAME": "P.S. 201 THE DISCOVERY SCHOOL FOR INQUIRY AND RESE",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "87.32"
+  },
+  {
+    "SCHOOL": "25Q209",
+    "SCHOOL NAME": "P.S. 209 CLEARVIEW GARDENS",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "92.98"
+  },
+  {
+    "SCHOOL": "25Q214",
+    "SCHOOL NAME": "P.S. 214 CADWALLADER COLDEN",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "90.21"
+  },
+  {
+    "SCHOOL": "25Q219",
+    "SCHOOL NAME": "P.S. 219 PAUL KLAPPER",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "90.92"
+  },
+  {
+    "SCHOOL": "25Q237",
+    "SCHOOL NAME": "I.S. 237",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "93.27"
+  },
+  {
+    "SCHOOL": "25Q242",
+    "SCHOOL NAME": "P.S. 242 LEONARD P. STAVISKY EARLY CHILDHOOD SCHOO",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "93.76"
+  },
+  {
+    "SCHOOL": "25Q244",
+    "SCHOOL NAME": "THE ACTIVE LEARNING ELEMENTARY SCHOOL",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "94.19"
+  },
+  {
+    "SCHOOL": "25Q250",
+    "SCHOOL NAME": "I.S. 250 THE ROBERT F. KENNEDY COMMUNITY MIDDLE SC",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "65.75"
+  },
+  {
+    "SCHOOL": "25Q252",
+    "SCHOOL NAME": "QUEENS SCHOOL OF INQUIRY, THE",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "83.70"
+  },
+  {
+    "SCHOOL": "25Q263",
+    "SCHOOL NAME": "FLUSHING INTERNATIONAL HIGH SCHOOL",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "84.13"
+  },
+  {
+    "SCHOOL": "25Q281",
+    "SCHOOL NAME": "EAST WEST SCHOOL OF INTERNATIONAL STUDIES",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "92.01"
+  },
+  {
+    "SCHOOL": "25Q285",
+    "SCHOOL NAME": "WORLD JOURNALISM PREPARATORY: A COLLEGE BOARD SCHO",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "87.31"
+  },
+  {
+    "SCHOOL": "25Q294",
+    "SCHOOL NAME": "BELL ACADEMY",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "92.52"
+  },
+  {
+    "SCHOOL": "25Q379",
+    "SCHOOL NAME": "COLLEGE POINT COLLABORATIVE",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "87.57"
+  },
+  {
+    "SCHOOL": "25Q409",
+    "SCHOOL NAME": "DISTRICT 25 PRE K CENTER",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "73.30"
+  },
+  {
+    "SCHOOL": "25Q499",
+    "SCHOOL NAME": "THE QUEENS COLLEGE SCHOOL FOR MATH, SCIENCE AND TE",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "94.85"
+  },
+  {
+    "SCHOOL": "26Q018",
+    "SCHOOL NAME": "P.S. 018 WINCHESTER",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "91.28"
+  },
+  {
+    "SCHOOL": "26Q026",
+    "SCHOOL NAME": "P.S. 026 RUFUS KING",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "89.81"
+  },
+  {
+    "SCHOOL": "26Q031",
+    "SCHOOL NAME": "P.S. 031 BAYSIDE",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "87.99"
+  },
+  {
+    "SCHOOL": "26Q041",
+    "SCHOOL NAME": "P.S. 041 CROCHERON",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "93.51"
+  },
+  {
+    "SCHOOL": "26Q046",
+    "SCHOOL NAME": "P.S. 046 ALLEY POND",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "94.80"
+  },
+  {
+    "SCHOOL": "26Q067",
+    "SCHOOL NAME": "J.H.S. 067 LOUIS PASTEUR",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "93.46"
+  },
+  {
+    "SCHOOL": "26Q074",
+    "SCHOOL NAME": "J.H.S. 074 NATHANIEL HAWTHORNE",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "93.37"
+  },
+  {
+    "SCHOOL": "26Q094",
+    "SCHOOL NAME": "P.S. 094 DAVID D. PORTER",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "94.93"
+  },
+  {
+    "SCHOOL": "26Q098",
+    "SCHOOL NAME": "P.S. 098 THE DOUGLASTON SCHOOL",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "95.25"
+  },
+  {
+    "SCHOOL": "26Q115",
+    "SCHOOL NAME": "THE JAMES J. AMBROSE SCHOOL",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "89.00"
+  },
+  {
+    "SCHOOL": "26Q133",
+    "SCHOOL NAME": "P.S. 133 QUEENS",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "88.11"
+  },
+  {
+    "SCHOOL": "26Q158",
+    "SCHOOL NAME": "M.S. 158 MARIE CURIE",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "82.28"
+  },
+  {
+    "SCHOOL": "26Q159",
+    "SCHOOL NAME": "P.S. 159",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "91.68"
+  },
+  {
+    "SCHOOL": "26Q162",
+    "SCHOOL NAME": "P.S. 162 JOHN GOLDEN",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "92.07"
+  },
+  {
+    "SCHOOL": "26Q172",
+    "SCHOOL NAME": "IRWIN ALTMAN MIDDLE SCHOOL 172",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "87.66"
+  },
+  {
+    "SCHOOL": "26Q173",
+    "SCHOOL NAME": "P.S. 173 FRESH MEADOWS",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "92.64"
+  },
+  {
+    "SCHOOL": "26Q178",
+    "SCHOOL NAME": "P.S.  IS 178 HOLLISWOOD",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "83.20"
+  },
+  {
+    "SCHOOL": "26Q186",
+    "SCHOOL NAME": "P.S. 186 CASTLEWOOD",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "92.41"
+  },
+  {
+    "SCHOOL": "26Q188",
+    "SCHOOL NAME": "P.S. 188 KINGSBURY",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "96.22"
+  },
+  {
+    "SCHOOL": "26Q191",
+    "SCHOOL NAME": "P.S. 191 MAYFLOWER",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "90.95"
+  },
+  {
+    "SCHOOL": "26Q203",
+    "SCHOOL NAME": "P.S. 203 OAKLAND GARDENS",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "93.94"
+  },
+  {
+    "SCHOOL": "26Q205",
+    "SCHOOL NAME": "P.S. 205 ALEXANDER GRAHAM BELL",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "91.50"
+  },
+  {
+    "SCHOOL": "26Q213",
+    "SCHOOL NAME": "P.S. 213 THE CARL ULLMAN SCHOOL",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "88.80"
+  },
+  {
+    "SCHOOL": "26Q216",
+    "SCHOOL NAME": "J.H.S. 216 GEORGE J. RYAN",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "90.79"
+  },
+  {
+    "SCHOOL": "26Q221",
+    "SCHOOL NAME": "P.S. 221 THE NORTH HILLS SCHOOL",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "92.84"
+  },
+  {
+    "SCHOOL": "26Q266",
+    "SCHOOL NAME": "P.S. I.S. 266",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "81.86"
+  },
+  {
+    "SCHOOL": "26Q376",
+    "SCHOOL NAME": "P.S. 376",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "90.88"
+  },
+  {
+    "SCHOOL": "26Q390",
+    "SCHOOL NAME": "THE CIVIC SCHOOL OF BAYSIDE HILLS",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "88.15"
+  },
+  {
+    "SCHOOL": "27Q042",
+    "SCHOOL NAME": "P.S. M.S 042 R. VERNAM",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "55.87"
+  },
+  {
+    "SCHOOL": "27Q043",
+    "SCHOOL NAME": "P.S. 043",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "NS"
+  },
+  {
+    "SCHOOL": "27Q045",
+    "SCHOOL NAME": "P.S. 045 CLARENCE WITHERSPOON",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "65.81"
+  },
+  {
+    "SCHOOL": "27Q047",
+    "SCHOOL NAME": "P.S. 047 CHRIS GALAS",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "85.37"
+  },
+  {
+    "SCHOOL": "27Q051",
+    "SCHOOL NAME": "P.S. 051",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "91.12"
+  },
+  {
+    "SCHOOL": "27Q053",
+    "SCHOOL NAME": "M.S. 053 BRIAN PICCOLO",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "82.68"
+  },
+  {
+    "SCHOOL": "27Q056",
+    "SCHOOL NAME": "P.S. 056 HARRY EICHLER",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "86.03"
+  },
+  {
+    "SCHOOL": "27Q060",
+    "SCHOOL NAME": "P.S. 060 WOODHAVEN",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "85.40"
+  },
+  {
+    "SCHOOL": "27Q062",
+    "SCHOOL NAME": "P. S. 62   CHESTER PARK SCHOOL",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "83.92"
+  },
+  {
+    "SCHOOL": "27Q063",
+    "SCHOOL NAME": "P.S. 063 OLD SOUTH",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "81.19"
+  },
+  {
+    "SCHOOL": "27Q064",
+    "SCHOOL NAME": "P.S. 064 JOSEPH P. ADDABBO",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "86.32"
+  },
+  {
+    "SCHOOL": "27Q065",
+    "SCHOOL NAME": "P.S. 65   THE RAYMOND YORK ELEMENTARY SCHOOL",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "81.17"
+  },
+  {
+    "SCHOOL": "27Q066",
+    "SCHOOL NAME": "P.S. 066 JACQUELINE KENNEDY ONASSIS",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "85.16"
+  },
+  {
+    "SCHOOL": "27Q090",
+    "SCHOOL NAME": "P.S. 090 HORACE MANN",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "85.06"
+  },
+  {
+    "SCHOOL": "27Q096",
+    "SCHOOL NAME": "P.S. 096",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "79.40"
+  },
+  {
+    "SCHOOL": "27Q097",
+    "SCHOOL NAME": "P.S. 097 FOREST PARK",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "81.13"
+  },
+  {
+    "SCHOOL": "27Q100",
+    "SCHOOL NAME": "P.S. 100 GLEN MORRIS",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "79.40"
+  },
+  {
+    "SCHOOL": "27Q104",
+    "SCHOOL NAME": "P.S. 104 THE BAYS WATER",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "76.84"
+  },
+  {
+    "SCHOOL": "27Q105",
+    "SCHOOL NAME": "P.S. 105 THE BAY SCHOOL",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "58.22"
+  },
+  {
+    "SCHOOL": "27Q106",
+    "SCHOOL NAME": "LIGHTHOUSE ELEMENTARY SCHOOL",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "74.49"
+  },
+  {
+    "SCHOOL": "27Q108",
+    "SCHOOL NAME": "P.S. 108 CAPTAIN VINCENT G. FOWLER",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "85.20"
+  },
+  {
+    "SCHOOL": "27Q114",
+    "SCHOOL NAME": "P.S. M.S. 114 BELLE HARBOR",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "NS"
+  },
+  {
+    "SCHOOL": "27Q123",
+    "SCHOOL NAME": "P.S. 123",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "74.23"
+  },
+  {
+    "SCHOOL": "27Q124",
+    "SCHOOL NAME": "P.S. 124 OSMOND A CHURCH",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "84.11"
+  },
+  {
+    "SCHOOL": "27Q137",
+    "SCHOOL NAME": "M.S. 137 AMERICA S SCHOOL OF HEROES",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "59.00"
+  },
+  {
+    "SCHOOL": "27Q146",
+    "SCHOOL NAME": "P.S. 146 HOWARD BEACH",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "84.79"
+  },
+  {
+    "SCHOOL": "27Q155",
+    "SCHOOL NAME": "P.S. 155",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "83.30"
+  },
+  {
+    "SCHOOL": "27Q183",
+    "SCHOOL NAME": "P.S. 183 DR. RICHARD R. GREEN",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "57.83"
+  },
+  {
+    "SCHOOL": "27Q197",
+    "SCHOOL NAME": "P.S. 197 THE OCEAN SCHOOL",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "73.38"
+  },
+  {
+    "SCHOOL": "27Q202",
+    "SCHOOL NAME": "J.H.S. 202 ROBERT H. GODDARD",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "76.30"
+  },
+  {
+    "SCHOOL": "27Q207",
+    "SCHOOL NAME": "P.S. 207 ROCKWOOD PARK",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "87.32"
+  },
+  {
+    "SCHOOL": "27Q210",
+    "SCHOOL NAME": "J.H.S. 210 ELIZABETH BLACKWELL",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "63.15"
+  },
+  {
+    "SCHOOL": "27Q223",
+    "SCHOOL NAME": "P.S. 223 LYNDON B. JOHNSON",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "65.13"
+  },
+  {
+    "SCHOOL": "27Q226",
+    "SCHOOL NAME": "J.H.S. 226 VIRGIL I. GRISSOM",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "79.83"
+  },
+  {
+    "SCHOOL": "27Q232",
+    "SCHOOL NAME": "P.S. 232 LINDENWOOD",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "79.34"
+  },
+  {
+    "SCHOOL": "27Q253",
+    "SCHOOL NAME": "P.S. 253",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "79.75"
+  },
+  {
+    "SCHOOL": "27Q254",
+    "SCHOOL NAME": "P.S. 254   THE ROSA PARKS SCHOOL",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "83.15"
+  },
+  {
+    "SCHOOL": "27Q262",
+    "SCHOOL NAME": "CHANNEL VIEW SCHOOL FOR RESEARCH",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "78.72"
+  },
+  {
+    "SCHOOL": "27Q273",
+    "SCHOOL NAME": "P.S. 273",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "85.89"
+  },
+  {
+    "SCHOOL": "27Q282",
+    "SCHOOL NAME": "KNOWLEDGE AND POWER PREPARATORY ACADEMY VI",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "88.46"
+  },
+  {
+    "SCHOOL": "27Q297",
+    "SCHOOL NAME": "HAWTREE CREEK MIDDLE SCHOOL",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "72.39"
+  },
+  {
+    "SCHOOL": "27Q306",
+    "SCHOOL NAME": "NEW YORK CITY ACADEMY FOR DISCOVERY",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "81.89"
+  },
+  {
+    "SCHOOL": "27Q309",
+    "SCHOOL NAME": "ACADEMY OF MEDICAL TECHNOLOGY: A COLLEGE BOARD SCH",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "54.79"
+  },
+  {
+    "SCHOOL": "27Q316",
+    "SCHOOL NAME": "QUEENS EXPLORERS ELEMENTARY SCHOOL",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "87.91"
+  },
+  {
+    "SCHOOL": "27Q317",
+    "SCHOOL NAME": "WATERSIDE CHILDREN S STUDIO SCHOOL",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "73.85"
+  },
+  {
+    "SCHOOL": "27Q318",
+    "SCHOOL NAME": "WATERSIDE SCHOOL FOR LEADERSHIP",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "62.73"
+  },
+  {
+    "SCHOOL": "27Q319",
+    "SCHOOL NAME": "VILLAGE ACADEMY",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "81.96"
+  },
+  {
+    "SCHOOL": "27Q323",
+    "SCHOOL NAME": "SCHOLARS  ACADEMY",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "95.47"
+  },
+  {
+    "SCHOOL": "27Q333",
+    "SCHOOL NAME": "GOLDIE MAPLE ACADEMY",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "73.13"
+  },
+  {
+    "SCHOOL": "27Q336",
+    "SCHOOL NAME": "CURIOUS YOUNG LEARNERS PRE K CENTER",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "75.72"
+  },
+  {
+    "SCHOOL": "27Q362",
+    "SCHOOL NAME": "WAVE PREPARATORY ELEMENTARY SCHOOL",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "84.06"
+  },
+  {
+    "SCHOOL": "27Q377",
+    "SCHOOL NAME": "P.S. 377",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "87.74"
+  },
+  {
+    "SCHOOL": "28Q008",
+    "SCHOOL NAME": "J.H.S. 008 RICHARD S. GROSSLEY",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "58.78"
+  },
+  {
+    "SCHOOL": "28Q040",
+    "SCHOOL NAME": "P.S. 040 SAMUEL HUNTINGTON",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "68.48"
+  },
+  {
+    "SCHOOL": "28Q048",
+    "SCHOOL NAME": "DAVID N. DINKINS SCHOOL",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "76.94"
+  },
+  {
+    "SCHOOL": "28Q050",
+    "SCHOOL NAME": "P.S. 050 TALFOURD LAWN ELEMENTARY SCHOOL",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "84.68"
+  },
+  {
+    "SCHOOL": "28Q054",
+    "SCHOOL NAME": "P.S. 054 HILLSIDE",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "86.89"
+  },
+  {
+    "SCHOOL": "28Q055",
+    "SCHOOL NAME": "P.S. 055 MAURE",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "82.73"
+  },
+  {
+    "SCHOOL": "28Q072",
+    "SCHOOL NAME": "CATHERINE   COUNT BASIE MIDDLE SCHOOL 72",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "79.69"
+  },
+  {
+    "SCHOOL": "28Q080",
+    "SCHOOL NAME": "PS 80  THE THURGOOD MARSHALL MAGNET SCHOOL OF MULT",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "78.34"
+  },
+  {
+    "SCHOOL": "28Q082",
+    "SCHOOL NAME": "P.S. 082 HAMMOND",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "84.73"
+  },
+  {
+    "SCHOOL": "28Q086",
+    "SCHOOL NAME": "P.S. Q086",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "88.78"
+  },
+  {
+    "SCHOOL": "28Q099",
+    "SCHOOL NAME": "P.S. 099 KEW GARDENS",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "90.01"
+  },
+  {
+    "SCHOOL": "28Q101",
+    "SCHOOL NAME": "P.S. 101 SCHOOL IN THE GARDENS",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "93.90"
+  },
+  {
+    "SCHOOL": "28Q117",
+    "SCHOOL NAME": "P.S. 117 J. KELD   BRIARWOOD SCHOOL",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "79.92"
+  },
+  {
+    "SCHOOL": "28Q121",
+    "SCHOOL NAME": "P.S. 121 QUEENS",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "78.08"
+  },
+  {
+    "SCHOOL": "28Q139",
+    "SCHOOL NAME": "P.S. 139 REGO PARK",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "83.30"
+  },
+  {
+    "SCHOOL": "28Q140",
+    "SCHOOL NAME": "P.S. 140 EDWARD K ELLINGTON",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "82.24"
+  },
+  {
+    "SCHOOL": "28Q144",
+    "SCHOOL NAME": "P.S. 144 COL JEROMUS REMSEN",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "91.18"
+  },
+  {
+    "SCHOOL": "28Q157",
+    "SCHOOL NAME": "J.H.S. 157 STEPHEN A. HALSEY",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "82.20"
+  },
+  {
+    "SCHOOL": "28Q160",
+    "SCHOOL NAME": "P.S. 160 WALTER FRANCIS BISHOP",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "54.62"
+  },
+  {
+    "SCHOOL": "28Q161",
+    "SCHOOL NAME": "P.S. 161 ARTHUR ASHE SCHOOL",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "79.73"
+  },
+  {
+    "SCHOOL": "28Q167",
+    "SCHOOL NAME": "METROPOLITAN EXPEDITIONARY LEARNING SCHOOL",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "81.60"
+  },
+  {
+    "SCHOOL": "28Q174",
+    "SCHOOL NAME": "P.S. 174 WILLIAM SIDNEY MOUNT",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "92.03"
+  },
+  {
+    "SCHOOL": "28Q175",
+    "SCHOOL NAME": "P.S. 175 THE LYNN GROSS DISCOVERY SCHOOL",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "83.74"
+  },
+  {
+    "SCHOOL": "28Q182",
+    "SCHOOL NAME": "P.S. 182 SAMANTHA SMITH",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "89.19"
+  },
+  {
+    "SCHOOL": "28Q190",
+    "SCHOOL NAME": "J.H.S. 190 RUSSELL SAGE",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "73.51"
+  },
+  {
+    "SCHOOL": "28Q196",
+    "SCHOOL NAME": "P.S. 196 GRAND CENTRAL PARKWAY",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "91.91"
+  },
+  {
+    "SCHOOL": "28Q206",
+    "SCHOOL NAME": "P.S. 206 THE HORACE HARDING SCHOOL",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "79.44"
+  },
+  {
+    "SCHOOL": "28Q217",
+    "SCHOOL NAME": "J.H.S. 217 ROBERT A. VAN WYCK",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "78.05"
+  },
+  {
+    "SCHOOL": "28Q220",
+    "SCHOOL NAME": "P.S. 220 EDWARD MANDEL",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "80.48"
+  },
+  {
+    "SCHOOL": "28Q284",
+    "SCHOOL NAME": "YORK EARLY COLLEGE ACADEMY",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "73.81"
+  },
+  {
+    "SCHOOL": "28Q287",
+    "SCHOOL NAME": "THE EMERSON SCHOOL",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "59.42"
+  },
+  {
+    "SCHOOL": "28Q303",
+    "SCHOOL NAME": "THE ACADEMY FOR EXCELLENCE THROUGH THE ARTS",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "93.82"
+  },
+  {
+    "SCHOOL": "28Q310",
+    "SCHOOL NAME": "QUEENS COLLEGIATE: A COLLEGE BOARD SCHOOL",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "72.34"
+  },
+  {
+    "SCHOOL": "28Q312",
+    "SCHOOL NAME": "JAMAICA CHILDREN S SCHOOL",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "74.10"
+  },
+  {
+    "SCHOOL": "28Q328",
+    "SCHOOL NAME": "HIGH SCHOOL FOR COMMUNITY LEADERSHIP",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "NS"
+  },
+  {
+    "SCHOOL": "28Q332",
+    "SCHOOL NAME": "REDWOOD MIDDLE SCHOOL",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "61.99"
+  },
+  {
+    "SCHOOL": "28Q335",
+    "SCHOOL NAME": "THE EZRA JACK KEATS PRE K CENTER",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "91.70"
+  },
+  {
+    "SCHOOL": "28Q338",
+    "SCHOOL NAME": "QUEENS SATELLITE HIGH SCHOOL FOR OPPORTUNITY",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "40.00"
+  },
+  {
+    "SCHOOL": "28Q349",
+    "SCHOOL NAME": "THE QUEENS SCHOOL FOR LEADERSHIP AND EXCELLENCE",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "85.76"
+  },
+  {
+    "SCHOOL": "28Q354",
+    "SCHOOL NAME": "THE JERMAINE L. GREEN STEM INSTITUTE OF QUEENS",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "71.45"
+  },
+  {
+    "SCHOOL": "28Q358",
+    "SCHOOL NAME": "M.S. 358",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "85.04"
+  },
+  {
+    "SCHOOL": "28Q680",
+    "SCHOOL NAME": "QUEENS GATEWAY TO HEALTH SCIENCES SECONDARY SCHOOL",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "87.27"
+  },
+  {
+    "SCHOOL": "28Q896",
+    "SCHOOL NAME": "YOUNG WOMEN S LEADERSHIP SCHOOL, QUEENS",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "75.84"
+  },
+  {
+    "SCHOOL": "29Q015",
+    "SCHOOL NAME": "P.S. 015 JACKIE ROBINSON",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "79.50"
+  },
+  {
+    "SCHOOL": "29Q033",
+    "SCHOOL NAME": "P.S. 033 EDWARD M. FUNK",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "81.22"
+  },
+  {
+    "SCHOOL": "29Q034",
+    "SCHOOL NAME": "P.S. 034 JOHN HARVARD",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "78.13"
+  },
+  {
+    "SCHOOL": "29Q035",
+    "SCHOOL NAME": "P.S. 035 NATHANIEL WOODHULL",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "62.56"
+  },
+  {
+    "SCHOOL": "29Q036",
+    "SCHOOL NAME": "P.S. 036 SAINT ALBANS SCHOOL",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "73.98"
+  },
+  {
+    "SCHOOL": "29Q037",
+    "SCHOOL NAME": "CYNTHIA JENKINS SCHOOL",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "68.60"
+  },
+  {
+    "SCHOOL": "29Q038",
+    "SCHOOL NAME": "P.S. 038 ROSEDALE",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "71.13"
+  },
+  {
+    "SCHOOL": "29Q052",
+    "SCHOOL NAME": "P.S. 052 QUEENS",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "72.82"
+  },
+  {
+    "SCHOOL": "29Q059",
+    "SCHOOL NAME": "I.S. 059 SPRINGFIELD GARDENS",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "51.85"
+  },
+  {
+    "SCHOOL": "29Q095",
+    "SCHOOL NAME": "P.S. 095 EASTWOOD",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "63.15"
+  },
+  {
+    "SCHOOL": "29Q109",
+    "SCHOOL NAME": "JEAN NUZZI INTERMEDIATE SCHOOL",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "81.32"
+  },
+  {
+    "SCHOOL": "29Q116",
+    "SCHOOL NAME": "P.S. I.S. 116 WILLIAM C. HUGHLEY",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "74.03"
+  },
+  {
+    "SCHOOL": "29Q118",
+    "SCHOOL NAME": "P.S. 118 LORRAINE HANSBERRY",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "74.31"
+  },
+  {
+    "SCHOOL": "29Q131",
+    "SCHOOL NAME": "P.S. 131 ABIGAIL ADAMS",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "86.56"
+  },
+  {
+    "SCHOOL": "29Q132",
+    "SCHOOL NAME": "P.S. 132 RALPH BUNCHE",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "75.86"
+  },
+  {
+    "SCHOOL": "29Q134",
+    "SCHOOL NAME": "P.S. 134 HOLLIS",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "74.03"
+  },
+  {
+    "SCHOOL": "29Q135",
+    "SCHOOL NAME": "THE BELLAIRE SCHOOL",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "79.18"
+  },
+  {
+    "SCHOOL": "29Q136",
+    "SCHOOL NAME": "P.S. 136 ROY WILKINS",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "63.71"
+  },
+  {
+    "SCHOOL": "29Q138",
+    "SCHOOL NAME": "P.S. M.S. 138 SUNRISE",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "56.16"
+  },
+  {
+    "SCHOOL": "29Q147",
+    "SCHOOL NAME": "P.S. M.S. 147 RONALD MCNAIR",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "76.22"
+  },
+  {
+    "SCHOOL": "29Q156",
+    "SCHOOL NAME": "P.S. 156 LAURELTON",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "84.24"
+  },
+  {
+    "SCHOOL": "29Q176",
+    "SCHOOL NAME": "P.S. 176 CAMBRIA HEIGHTS",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "81.13"
+  },
+  {
+    "SCHOOL": "29Q181",
+    "SCHOOL NAME": "P.S. 181 BROOKFIELD",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "NS"
+  },
+  {
+    "SCHOOL": "29Q192",
+    "SCHOOL NAME": "I.S. 192 THE LINDEN",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "81.31"
+  },
+  {
+    "SCHOOL": "29Q195",
+    "SCHOOL NAME": "P.S. 195 WILLIAM HABERLE",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "57.06"
+  },
+  {
+    "SCHOOL": "29Q208",
+    "SCHOOL NAME": "P.S. I.S. 208",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "79.87"
+  },
+  {
+    "SCHOOL": "29Q238",
+    "SCHOOL NAME": "I.S. 238   SUSAN B. ANTHONY ACADEMY",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "63.08"
+  },
+  {
+    "SCHOOL": "29Q251",
+    "SCHOOL NAME": "P.S. 251 QUEENS",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "71.48"
+  },
+  {
+    "SCHOOL": "29Q259",
+    "SCHOOL NAME": "PATHWAYS COLLEGE PREPARATORY SCHOOL: A COLLEGE BOA",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "NS"
+  },
+  {
+    "SCHOOL": "29Q268",
+    "SCHOOL NAME": "P.S. I.S. 268",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "85.05"
+  },
+  {
+    "SCHOOL": "29Q270",
+    "SCHOOL NAME": "THE GORDON PARKS SCHOOL",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "NS"
+  },
+  {
+    "SCHOOL": "29Q283",
+    "SCHOOL NAME": "PREPARATORY ACADEMY FOR WRITERS: A COLLEGE BOARD S",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "NS"
+  },
+  {
+    "SCHOOL": "29Q289",
+    "SCHOOL NAME": "QUEENS UNITED MIDDLE SCHOOL",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "90.90"
+  },
+  {
+    "SCHOOL": "29Q295",
+    "SCHOOL NAME": "P.S. I.S. 295",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "90.00"
+  },
+  {
+    "SCHOOL": "29Q327",
+    "SCHOOL NAME": "EAGLE ACADEMY FOR YOUNG MEN III",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "100.00"
+  },
+  {
+    "SCHOOL": "29Q355",
+    "SCHOOL NAME": "COLLABORATIVE ARTS MIDDLE SCHOOL",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "65.47"
+  },
+  {
+    "SCHOOL": "29Q356",
+    "SCHOOL NAME": "COMMUNITY VOICES MIDDLE SCHOOL",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "59.22"
+  },
+  {
+    "SCHOOL": "29Q360",
+    "SCHOOL NAME": "P.S. 360",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "83.33"
+  },
+  {
+    "SCHOOL": "29Q381",
+    "SCHOOL NAME": "DISTRICT 29 PRE K CENTER",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "69.49"
+  },
+  {
+    "SCHOOL": "30Q002",
+    "SCHOOL NAME": "P.S. 002 ALFRED ZIMBERG",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "87.89"
+  },
+  {
+    "SCHOOL": "30Q010",
+    "SCHOOL NAME": "I.S. 010 HORACE GREELEY",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "56.22"
+  },
+  {
+    "SCHOOL": "30Q011",
+    "SCHOOL NAME": "P.S. 011 KATHRYN PHELAN",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "90.75"
+  },
+  {
+    "SCHOOL": "30Q017",
+    "SCHOOL NAME": "P.S. 017 HENRY DAVID THOREAU",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "87.08"
+  },
+  {
+    "SCHOOL": "30Q069",
+    "SCHOOL NAME": "P.S. 069 JACKSON HEIGHTS",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "85.00"
+  },
+  {
+    "SCHOOL": "30Q070",
+    "SCHOOL NAME": "P.S. 070",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "88.31"
+  },
+  {
+    "SCHOOL": "30Q076",
+    "SCHOOL NAME": "P.S. 076 WILLIAM HALLET",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "81.79"
+  },
+  {
+    "SCHOOL": "30Q078",
+    "SCHOOL NAME": "P.S. I.S. 78Q",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "86.45"
+  },
+  {
+    "SCHOOL": "30Q084",
+    "SCHOOL NAME": "P.S. 084 STEINWAY",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "86.83"
+  },
+  {
+    "SCHOOL": "30Q085",
+    "SCHOOL NAME": "P.S. 085 JUDGE CHARLES VALLONE",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "85.49"
+  },
+  {
+    "SCHOOL": "30Q092",
+    "SCHOOL NAME": "P.S. 092 HARRY T. STEWART SR.",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "92.52"
+  },
+  {
+    "SCHOOL": "30Q111",
+    "SCHOOL NAME": "P.S. 111 JACOB BLACKWELL",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "65.15"
+  },
+  {
+    "SCHOOL": "30Q112",
+    "SCHOOL NAME": "P.S. 112 DUTCH KILLS",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "82.16"
+  },
+  {
+    "SCHOOL": "30Q122",
+    "SCHOOL NAME": "P.S. 122 MAMIE FAY",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "88.15"
+  },
+  {
+    "SCHOOL": "30Q126",
+    "SCHOOL NAME": "ALBERT SHANKER SCHOOL FOR VISUAL AND PERFORMING AR",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "78.13"
+  },
+  {
+    "SCHOOL": "30Q127",
+    "SCHOOL NAME": "P.S. 127 AEROSPACE SCIENCE MAGNET SCHOOL",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "83.15"
+  },
+  {
+    "SCHOOL": "30Q141",
+    "SCHOOL NAME": "I.S. 141 THE STEINWAY",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "76.78"
+  },
+  {
+    "SCHOOL": "30Q145",
+    "SCHOOL NAME": "I.S. 145 JOSEPH PULITZER",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "79.03"
+  },
+  {
+    "SCHOOL": "30Q148",
+    "SCHOOL NAME": "P.S. 148 QUEENS",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "85.55"
+  },
+  {
+    "SCHOOL": "30Q149",
+    "SCHOOL NAME": "P.S. 149 CHRISTA MCAULIFFE",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "91.10"
+  },
+  {
+    "SCHOOL": "30Q150",
+    "SCHOOL NAME": "P.S. 150 QUEENS",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "87.36"
+  },
+  {
+    "SCHOOL": "30Q151",
+    "SCHOOL NAME": "P.S. 151 MARY D. CARTER",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "77.92"
+  },
+  {
+    "SCHOOL": "30Q152",
+    "SCHOOL NAME": "P.S. 152 GWENDOLINE N. ALLEYNE SCHOOL",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "89.01"
+  },
+  {
+    "SCHOOL": "30Q166",
+    "SCHOOL NAME": "P.S. 166 HENRY GRADSTEIN",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "86.19"
+  },
+  {
+    "SCHOOL": "30Q171",
+    "SCHOOL NAME": "P.S. 171 PETER G. VAN ALST",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "82.02"
+  },
+  {
+    "SCHOOL": "30Q204",
+    "SCHOOL NAME": "I.S. 204 OLIVER W. HOLMES",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "81.11"
+  },
+  {
+    "SCHOOL": "30Q212",
+    "SCHOOL NAME": "P.S. 212",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "84.36"
+  },
+  {
+    "SCHOOL": "30Q222",
+    "SCHOOL NAME": "P.S. Q222   FIRE FIGHTER CHRISTOPHER A. SANTORA SC",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "82.60"
+  },
+  {
+    "SCHOOL": "30Q227",
+    "SCHOOL NAME": "I.S. 227 LOUIS ARMSTRONG",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "88.64"
+  },
+  {
+    "SCHOOL": "30Q228",
+    "SCHOOL NAME": "THE IVAN LAFAYETTE EARLY CHILDHOOD SCHOOL OF THE A",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "87.67"
+  },
+  {
+    "SCHOOL": "30Q230",
+    "SCHOOL NAME": "I.S. 230",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "93.85"
+  },
+  {
+    "SCHOOL": "30Q234",
+    "SCHOOL NAME": "P.S. 234",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "82.69"
+  },
+  {
+    "SCHOOL": "30Q235",
+    "SCHOOL NAME": "ACADEMY FOR NEW AMERICANS",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "89.04"
+  },
+  {
+    "SCHOOL": "30Q280",
+    "SCHOOL NAME": "PS280Q: HOME OF THE LIONHEARTS",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "92.33"
+  },
+  {
+    "SCHOOL": "30Q286",
+    "SCHOOL NAME": "YOUNG WOMEN S LEADERSHIP SCHOOL, ASTORIA",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "91.32"
+  },
+  {
+    "SCHOOL": "30Q291",
+    "SCHOOL NAME": "HUNTERS POINT COMMUNITY MIDDLE SCHOOL",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "87.63"
+  },
+  {
+    "SCHOOL": "30Q300",
+    "SCHOOL NAME": "THE 30TH AVENUE SCHOOL  G T CITYWIDE",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "93.48"
+  },
+  {
+    "SCHOOL": "30Q329",
+    "SCHOOL NAME": "EAST ELMHURST COMMUNITY SCHOOL",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "90.88"
+  },
+  {
+    "SCHOOL": "30Q361",
+    "SCHOOL NAME": "THE WOODSIDE COMMUNITY SCHOOL",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "88.95"
+  },
+  {
+    "SCHOOL": "30Q384",
+    "SCHOOL NAME": "HUNTERS POINT ELEMENTARY SCHOOL",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "90.25"
+  },
+  {
+    "SCHOOL": "30Q389",
+    "SCHOOL NAME": "DISTRICT 30 PRE K CENTER",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "68.47"
+  },
+  {
+    "SCHOOL": "30Q398",
+    "SCHOOL NAME": "THE HECTOR FIGUEROA SCHOOL",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "83.20"
+  },
+  {
+    "SCHOOL": "30Q580",
+    "SCHOOL NAME": "BACCALAUREATE SCHOOL FOR GLOBAL EDUCATION",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "NS"
+  },
+  {
+    "SCHOOL": "31R001",
+    "SCHOOL NAME": "P.S. 001 TOTTENVILLE",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "88.23"
+  },
+  {
+    "SCHOOL": "31R002",
+    "SCHOOL NAME": "I.S. R002 GEORGE L. EGBERT",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "82.54"
+  },
+  {
+    "SCHOOL": "31R003",
+    "SCHOOL NAME": "P.S. 003 THE MARGARET GIOIOSA SCHOOL",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "90.76"
+  },
+  {
+    "SCHOOL": "31R004",
+    "SCHOOL NAME": "P.S. 004 MAURICE WOLLIN",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "87.81"
+  },
+  {
+    "SCHOOL": "31R005",
+    "SCHOOL NAME": "P.S. 005 HUGUENOT",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "94.70"
+  },
+  {
+    "SCHOOL": "31R006",
+    "SCHOOL NAME": "P.S. 6 CORPORAL ALLAN F. KIVLEHAN SCHOOL",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "85.80"
+  },
+  {
+    "SCHOOL": "31R007",
+    "SCHOOL NAME": "I.S. 007 ELIAS BERNSTEIN",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "86.20"
+  },
+  {
+    "SCHOOL": "31R008",
+    "SCHOOL NAME": "P.S. 8 SHIRLEE SOLOMON",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "91.04"
+  },
+  {
+    "SCHOOL": "31R009",
+    "SCHOOL NAME": "NAPLES STREET ELEMENTARY SCHOOL",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "93.35"
+  },
+  {
+    "SCHOOL": "31R010",
+    "SCHOOL NAME": "FORT HILL COLLABORATIVE ELEMENTARY SCHOOL",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "72.77"
+  },
+  {
+    "SCHOOL": "31R011",
+    "SCHOOL NAME": "P.S. 11 THOMAS DONGAN SCHOOL",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "81.11"
+  },
+  {
+    "SCHOOL": "31R013",
+    "SCHOOL NAME": "P.S. 013 M. L. LINDEMEYER",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "87.46"
+  },
+  {
+    "SCHOOL": "31R016",
+    "SCHOOL NAME": "P.S. 016 JOHN J. DRISCOLL",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "81.41"
+  },
+  {
+    "SCHOOL": "31R018",
+    "SCHOOL NAME": "P.S. 018 JOHN G. WHITTIER",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "72.59"
+  },
+  {
+    "SCHOOL": "31R019",
+    "SCHOOL NAME": "P.S. 019 THE CURTIS SCHOOL",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "80.17"
+  },
+  {
+    "SCHOOL": "31R020",
+    "SCHOOL NAME": "P.S. 020 PORT RICHMOND",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "78.34"
+  },
+  {
+    "SCHOOL": "31R021",
+    "SCHOOL NAME": "P.S. 21 MARGARET EMERY ELM PARK",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "72.82"
+  },
+  {
+    "SCHOOL": "31R022",
+    "SCHOOL NAME": "P.S. 022 GRANITEVILLE",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "86.94"
+  },
+  {
+    "SCHOOL": "31R023",
+    "SCHOOL NAME": "P.S. 023 RICHMONDTOWN",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "85.71"
+  },
+  {
+    "SCHOOL": "31R024",
+    "SCHOOL NAME": "I.S. 024 MYRA S. BARNES",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "89.15"
+  },
+  {
+    "SCHOOL": "31R026",
+    "SCHOOL NAME": "P.S. 026 THE CARTERET SCHOOL",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "89.08"
+  },
+  {
+    "SCHOOL": "31R027",
+    "SCHOOL NAME": "I.S. 027 ANNING S. PRALL",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "59.06"
+  },
+  {
+    "SCHOOL": "31R028",
+    "SCHOOL NAME": "THE EAGLE ACADEMY FOR YOUNG MEN OF STATEN ISLAND",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "56.56"
+  },
+  {
+    "SCHOOL": "31R029",
+    "SCHOOL NAME": "P.S. 029 BARDWELL",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "89.11"
+  },
+  {
+    "SCHOOL": "31R030",
+    "SCHOOL NAME": "P.S. 030 WESTERLEIGH",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "90.89"
+  },
+  {
+    "SCHOOL": "31R031",
+    "SCHOOL NAME": "P.S. 031 WILLIAM T. DAVIS",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "68.45"
+  },
+  {
+    "SCHOOL": "31R032",
+    "SCHOOL NAME": "P.S. 032 THE GIFFORD SCHOOL",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "91.25"
+  },
+  {
+    "SCHOOL": "31R034",
+    "SCHOOL NAME": "I.S. 034 TOTTENVILLE",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "85.15"
+  },
+  {
+    "SCHOOL": "31R035",
+    "SCHOOL NAME": "P.S. 35 THE CLOVE VALLEY SCHOOL",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "90.15"
+  },
+  {
+    "SCHOOL": "31R036",
+    "SCHOOL NAME": "P.S. 036 J. C. DRUMGOOLE",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "91.58"
+  },
+  {
+    "SCHOOL": "31R038",
+    "SCHOOL NAME": "P.S. 038 GEORGE CROMWELL",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "89.15"
+  },
+  {
+    "SCHOOL": "31R039",
+    "SCHOOL NAME": "P.S. 39 FRANCIS J. MURPHY JR.",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "84.06"
+  },
+  {
+    "SCHOOL": "31R041",
+    "SCHOOL NAME": "THE STEPHANIE A. VIERNO SCHOOL",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "89.54"
+  },
+  {
+    "SCHOOL": "31R042",
+    "SCHOOL NAME": "P.S. 042 ELTINGVILLE",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "93.93"
+  },
+  {
+    "SCHOOL": "31R044",
+    "SCHOOL NAME": "P.S. 044 THOMAS C. BROWN",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "63.57"
+  },
+  {
+    "SCHOOL": "31R045",
+    "SCHOOL NAME": "P.S. 045 JOHN TYLER",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "80.53"
+  },
+  {
+    "SCHOOL": "31R046",
+    "SCHOOL NAME": "P.S. 046 ALBERT V. MANISCALCO",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "76.96"
+  },
+  {
+    "SCHOOL": "31R048",
+    "SCHOOL NAME": "P.S. 048 WILLIAM G. WILCOX",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "83.50"
+  },
+  {
+    "SCHOOL": "31R049",
+    "SCHOOL NAME": "I.S. 49 BERTA A. DREYFUS",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "69.58"
+  },
+  {
+    "SCHOOL": "31R050",
+    "SCHOOL NAME": "P.S. 050 FRANK HANKINSON",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "87.58"
+  },
+  {
+    "SCHOOL": "31R051",
+    "SCHOOL NAME": "I.S. 051 EDWIN MARKHAM",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "77.05"
+  },
+  {
+    "SCHOOL": "31R052",
+    "SCHOOL NAME": "P.S. 052 JOHN C. THOMPSON",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "88.36"
+  },
+  {
+    "SCHOOL": "31R053",
+    "SCHOOL NAME": "THE BARBARA ESSELBORN SCHOOL",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "92.51"
+  },
+  {
+    "SCHOOL": "31R054",
+    "SCHOOL NAME": "P.S. 054 CHARLES W. LENG",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "88.06"
+  },
+  {
+    "SCHOOL": "31R055",
+    "SCHOOL NAME": "P.S. 055 HENRY M. BOEHM",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "93.71"
+  },
+  {
+    "SCHOOL": "31R056",
+    "SCHOOL NAME": "P.S. 56 THE LOUIS DESARIO SCHOOL",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "92.18"
+  },
+  {
+    "SCHOOL": "31R057",
+    "SCHOOL NAME": "P.S. 057 HUBERT H. HUMPHREY",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "70.36"
+  },
+  {
+    "SCHOOL": "31R058",
+    "SCHOOL NAME": "SPACE SHUTTLE COLUMBIA SCHOOL",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "87.19"
+  },
+  {
+    "SCHOOL": "31R059",
+    "SCHOOL NAME": "THE HARBOR VIEW SCHOOL",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "83.33"
+  },
+  {
+    "SCHOOL": "31R060",
+    "SCHOOL NAME": "P.S. 060 ALICE AUSTEN",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "89.28"
+  },
+  {
+    "SCHOOL": "31R061",
+    "SCHOOL NAME": "I.S. 061 WILLIAM A MORRIS",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "48.57"
+  },
+  {
+    "SCHOOL": "31R062",
+    "SCHOOL NAME": "THE KATHLEEN GRIMM SCHOOL FOR LEADERSHIP AND SUSTA",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "87.58"
+  },
+  {
+    "SCHOOL": "31R063",
+    "SCHOOL NAME": "MARSH AVENUE SCHOOL FOR EXPEDITIONARY LEARNING",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "93.27"
+  },
+  {
+    "SCHOOL": "31R065",
+    "SCHOOL NAME": "P.S. 65 THE ACADEMY OF INNOVATIVE LEARNING",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "85.71"
+  },
+  {
+    "SCHOOL": "31R066",
+    "SCHOOL NAME": "THE RICHMOND PRE K CENTER",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "87.74"
+  },
+  {
+    "SCHOOL": "31R068",
+    "SCHOOL NAME": "PORT RICHMOND SCHOOL FOR VISIONARY LEARNING",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "88.62"
+  },
+  {
+    "SCHOOL": "31R069",
+    "SCHOOL NAME": "P.S. 069 DANIEL D. TOMPKINS",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "91.90"
+  },
+  {
+    "SCHOOL": "31R072",
+    "SCHOOL NAME": "I.S. 072 ROCCO LAURIE",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "78.75"
+  },
+  {
+    "SCHOOL": "31R074",
+    "SCHOOL NAME": "P.S. 74 FUTURE LEADERS ELEMENTARY SCHOOL",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "64.05"
+  },
+  {
+    "SCHOOL": "31R075",
+    "SCHOOL NAME": "I.S. 075 FRANK D. PAULO",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "86.57"
+  },
+  {
+    "SCHOOL": "31R078",
+    "SCHOOL NAME": "P.S. 78",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "75.28"
+  },
+  {
+    "SCHOOL": "31R080",
+    "SCHOOL NAME": "THE MICHAEL J. PETRIDES SCHOOL",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "84.19"
+  },
+  {
+    "SCHOOL": "31R861",
+    "SCHOOL NAME": "STATEN ISLAND SCHOOL OF CIVIC LEADERSHIP",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "74.30"
+  },
+  {
+    "SCHOOL": "32K045",
+    "SCHOOL NAME": "P.S. I.S. 045 HORACE E. GREENE",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "74.95"
+  },
+  {
+    "SCHOOL": "32K075",
+    "SCHOOL NAME": "P.S. 075 MAYDA CORTIELLA",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "76.65"
+  },
+  {
+    "SCHOOL": "32K086",
+    "SCHOOL NAME": "P.S. 086 THE IRVINGTON",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "89.97"
+  },
+  {
+    "SCHOOL": "32K106",
+    "SCHOOL NAME": "P.S. 106 EDWARD EVERETT HALE",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "74.43"
+  },
+  {
+    "SCHOOL": "32K116",
+    "SCHOOL NAME": "P.S. 116 ELIZABETH L FARRELL",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "82.33"
+  },
+  {
+    "SCHOOL": "32K123",
+    "SCHOOL NAME": "P.S. 123 SUYDAM",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "82.14"
+  },
+  {
+    "SCHOOL": "32K145",
+    "SCHOOL NAME": "P.S. 145 ANDREW JACKSON",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "86.87"
+  },
+  {
+    "SCHOOL": "32K151",
+    "SCHOOL NAME": "P.S. 151 LYNDON B. JOHNSON",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "82.15"
+  },
+  {
+    "SCHOOL": "32K162",
+    "SCHOOL NAME": "J.H.S. 162 THE WILLOUGHBY",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "95.80"
+  },
+  {
+    "SCHOOL": "32K274",
+    "SCHOOL NAME": "P.S. 274 KOSCIUSKO",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "83.75"
+  },
+  {
+    "SCHOOL": "32K291",
+    "SCHOOL NAME": "J.H.S. 291 ROLAND HAYES",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "71.14"
+  },
+  {
+    "SCHOOL": "32K299",
+    "SCHOOL NAME": "P.S. 299 THOMAS WARREN FIELD",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "78.40"
+  },
+  {
+    "SCHOOL": "32K347",
+    "SCHOOL NAME": "I.S. 347 SCHOOL OF HUMANITIES",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "84.61"
+  },
+  {
+    "SCHOOL": "32K349",
+    "SCHOOL NAME": "I.S. 349 MATH, SCIENCE   TECH.",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "79.60"
+  },
+  {
+    "SCHOOL": "32K376",
+    "SCHOOL NAME": "P.S. 376",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "87.63"
+  },
+  {
+    "SCHOOL": "32K377",
+    "SCHOOL NAME": "P.S. 377 ALEJANDRINA B. DE GAUTIER",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "62.82"
+  },
+  {
+    "SCHOOL": "32K383",
+    "SCHOOL NAME": "J.H.S. 383 PHILIPPA SCHUYLER",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "74.76"
+  },
+  {
+    "SCHOOL": "32K384",
+    "SCHOOL NAME": "P.S.  I.S. 384 FRANCES E. CARTER",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "82.50"
+  },
+  {
+    "SCHOOL": "32K554",
+    "SCHOOL NAME": "ALL CITY LEADERSHIP SECONDARY SCHOOL",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "NS"
+  },
+  {
+    "SCHOOL": "32K562",
+    "SCHOOL NAME": "EVERGREEN MIDDLE SCHOOL FOR URBAN EXPLORATION",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "92.11"
+  },
+  {
+    "SCHOOL": "75K004",
+    "SCHOOL NAME": "P.S. K004",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "73.94"
+  },
+  {
+    "SCHOOL": "75K036",
+    "SCHOOL NAME": "P.S. 36",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "70.99"
+  },
+  {
+    "SCHOOL": "75K053",
+    "SCHOOL NAME": "P.S. K053",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "76.34"
+  },
+  {
+    "SCHOOL": "75K077",
+    "SCHOOL NAME": "P.S. K077",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "75.60"
+  },
+  {
+    "SCHOOL": "75K140",
+    "SCHOOL NAME": "P.S. K140",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "68.05"
+  },
+  {
+    "SCHOOL": "75K141",
+    "SCHOOL NAME": "P.S. K141",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "72.65"
+  },
+  {
+    "SCHOOL": "75K231",
+    "SCHOOL NAME": "P.S. K231",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "89.59"
+  },
+  {
+    "SCHOOL": "75K368",
+    "SCHOOL NAME": "P.S. 368",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "69.95"
+  },
+  {
+    "SCHOOL": "75K369",
+    "SCHOOL NAME": "P.S. K369   COY L. COX SCHOOL",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "65.62"
+  },
+  {
+    "SCHOOL": "75K370",
+    "SCHOOL NAME": "P.S. 370",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "80.75"
+  },
+  {
+    "SCHOOL": "75K371",
+    "SCHOOL NAME": "P.S. 371   LILLIAN L. RASHKIS",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "52.42"
+  },
+  {
+    "SCHOOL": "75K372",
+    "SCHOOL NAME": "P.S. 372  THE CHILDREN S SCHOOL",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "85.79"
+  },
+  {
+    "SCHOOL": "75K373",
+    "SCHOOL NAME": "P.S. 373   BROOKLYN TRANSITION CENTER",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "73.21"
+  },
+  {
+    "SCHOOL": "75K396",
+    "SCHOOL NAME": "SID MILLER ACADEMY",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "69.62"
+  },
+  {
+    "SCHOOL": "75K721",
+    "SCHOOL NAME": "P.S. K721   BROOKLYN OCCUPATIONAL TRAINING CENTER",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "80.66"
+  },
+  {
+    "SCHOOL": "75K753",
+    "SCHOOL NAME": "P.S. K753   SCHOOL FOR CAREER DEVELOPMENT",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "56.78"
+  },
+  {
+    "SCHOOL": "75K771",
+    "SCHOOL NAME": "P.S. K771",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "80.58"
+  },
+  {
+    "SCHOOL": "75K811",
+    "SCHOOL NAME": "P.S. K811 CONNIE LEKAS SCHOOL",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "66.66"
+  },
+  {
+    "SCHOOL": "75M035",
+    "SCHOOL NAME": "P.S. 035",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "NS"
+  },
+  {
+    "SCHOOL": "75M079",
+    "SCHOOL NAME": "P.S. M079   HORAN SCHOOL",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "66.16"
+  },
+  {
+    "SCHOOL": "75M094",
+    "SCHOOL NAME": "P.S. M094",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "73.14"
+  },
+  {
+    "SCHOOL": "75M138",
+    "SCHOOL NAME": "P.S. 138",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "NS"
+  },
+  {
+    "SCHOOL": "75M169",
+    "SCHOOL NAME": "P.S. M169   ROBERT F. KENNEDY",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "66.56"
+  },
+  {
+    "SCHOOL": "75M226",
+    "SCHOOL NAME": "P.S. M226",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "80.28"
+  },
+  {
+    "SCHOOL": "75M721",
+    "SCHOOL NAME": "P.S. M721   MANHATTAN OCCUPATIONAL TRAINING CENTER",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "73.51"
+  },
+  {
+    "SCHOOL": "75M751",
+    "SCHOOL NAME": "MANHATTAN SCHOOL FOR CAREER DEVELOPMENT",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "65.16"
+  },
+  {
+    "SCHOOL": "75M811",
+    "SCHOOL NAME": "P.S. M811   MICKEY MANTLE SCHOOL",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "77.43"
+  },
+  {
+    "SCHOOL": "75Q004",
+    "SCHOOL NAME": "P.S. Q004",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "82.41"
+  },
+  {
+    "SCHOOL": "75Q009",
+    "SCHOOL NAME": "P.S. 009",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "79.60"
+  },
+  {
+    "SCHOOL": "75Q023",
+    "SCHOOL NAME": "P.S. Q023   QUEENS CHILDREN CENTER",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "75.00"
+  },
+  {
+    "SCHOOL": "75Q075",
+    "SCHOOL NAME": "ROBERT E. PEARY SCHOOL",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "77.98"
+  },
+  {
+    "SCHOOL": "75Q177",
+    "SCHOOL NAME": "P.S. Q177",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "83.70"
+  },
+  {
+    "SCHOOL": "75Q224",
+    "SCHOOL NAME": "P.S. Q224",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "82.28"
+  },
+  {
+    "SCHOOL": "75Q233",
+    "SCHOOL NAME": "P.S. Q233",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "84.47"
+  },
+  {
+    "SCHOOL": "75Q255",
+    "SCHOOL NAME": "P.S. Q255",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "85.74"
+  },
+  {
+    "SCHOOL": "75Q256",
+    "SCHOOL NAME": "P.S. Q256",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "63.14"
+  },
+  {
+    "SCHOOL": "75Q277",
+    "SCHOOL NAME": "THE RIVERVIEW SCHOOL",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "83.25"
+  },
+  {
+    "SCHOOL": "75Q721",
+    "SCHOOL NAME": "JOHN F. KENNEDY JR. SCHOOL",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "77.84"
+  },
+  {
+    "SCHOOL": "75Q752",
+    "SCHOOL NAME": "QUEENS TRANSITION CENTER",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "69.34"
+  },
+  {
+    "SCHOOL": "75Q811",
+    "SCHOOL NAME": "P.S. Q811",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "75.92"
+  },
+  {
+    "SCHOOL": "75Q993",
+    "SCHOOL NAME": "P.S. Q993",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "78.60"
+  },
+  {
+    "SCHOOL": "75R025",
+    "SCHOOL NAME": "SOUTH RICHMOND HIGH SCHOOL I.S. P.S. 25",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "48.58"
+  },
+  {
+    "SCHOOL": "75R037",
+    "SCHOOL NAME": "THE DAVID MARQUIS SCHOOL OF THE ARTS",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "82.99"
+  },
+  {
+    "SCHOOL": "75R373",
+    "SCHOOL NAME": "P.S. R373",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "78.94"
+  },
+  {
+    "SCHOOL": "75R721",
+    "SCHOOL NAME": "THE RICHARD H. HUNGERFORD SCHOOL",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "77.75"
+  },
+  {
+    "SCHOOL": "75X010",
+    "SCHOOL NAME": "P.S. X010",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "74.22"
+  },
+  {
+    "SCHOOL": "75X012",
+    "SCHOOL NAME": "P.S. X012 LEWIS AND CLARK SCHOOL",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "64.89"
+  },
+  {
+    "SCHOOL": "75X017",
+    "SCHOOL NAME": "P.S. X017",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "64.96"
+  },
+  {
+    "SCHOOL": "75X168",
+    "SCHOOL NAME": "P.S. 168",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "69.15"
+  },
+  {
+    "SCHOOL": "75X176",
+    "SCHOOL NAME": "P.S. X176",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "77.59"
+  },
+  {
+    "SCHOOL": "75X186",
+    "SCHOOL NAME": "P186X WALTER J. DAMROSCH SCHOOL",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "59.66"
+  },
+  {
+    "SCHOOL": "75X188",
+    "SCHOOL NAME": "P.S. X188",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "76.31"
+  },
+  {
+    "SCHOOL": "75X352",
+    "SCHOOL NAME": "THE VIDA BOGART SCHOOL FOR ALL CHILDREN",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "81.45"
+  },
+  {
+    "SCHOOL": "75X469",
+    "SCHOOL NAME": "P469X   THE BRONX SCHOOL FOR CONTINUOUS LEARNERS",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "68.97"
+  },
+  {
+    "SCHOOL": "75X596",
+    "SCHOOL NAME": "P.S. X596",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "80.21"
+  },
+  {
+    "SCHOOL": "75X721",
+    "SCHOOL NAME": "P.S. X721   STEPHEN MCSWEENEY SCHOOL",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "68.89"
+  },
+  {
+    "SCHOOL": "75X723",
+    "SCHOOL NAME": "P.S. 723",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "65.78"
+  },
+  {
+    "SCHOOL": "75X754",
+    "SCHOOL NAME": "J. M. RAPPORT SCHOOL CAREER DEVELOPMENT",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "45.94"
+  },
+  {
+    "SCHOOL": "75X811",
+    "SCHOOL NAME": "P.S. X811",
+    "ATTD DATE": "6/24/2022 12:00:00 AM",
+    "%ATTD": "64.43"
+  },
+  {
     "SCHOOL": "01M015",
     "SCHOOL NAME": "P.S. 015 ROBERTO CLEMENTE",
     "ATTD DATE": "6/24/2022 12:00:00 AM",
@@ -5194,2309 +7498,5 @@
     "SCHOOL NAME": "P.S. 021 EDWARD HART",
     "ATTD DATE": "6/24/2022 12:00:00 AM",
     "%ATTD": "93.03"
-  },
-  {
-    "SCHOOL": "25Q022",
-    "SCHOOL NAME": "P.S. 022 THOMAS JEFFERSON",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "94.79"
-  },
-  {
-    "SCHOOL": "25Q024",
-    "SCHOOL NAME": "P.S. 024 ANDREW JACKSON",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "93.93"
-  },
-  {
-    "SCHOOL": "25Q025",
-    "SCHOOL NAME": "I.S. 025 ADRIEN BLOCK",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "83.44"
-  },
-  {
-    "SCHOOL": "25Q029",
-    "SCHOOL NAME": "P.S. 029 QUEENS",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "90.72"
-  },
-  {
-    "SCHOOL": "25Q032",
-    "SCHOOL NAME": "P.S. 032 STATE STREET",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "95.18"
-  },
-  {
-    "SCHOOL": "25Q079",
-    "SCHOOL NAME": "P.S. 079 FRANCIS LEWIS",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "91.84"
-  },
-  {
-    "SCHOOL": "25Q107",
-    "SCHOOL NAME": "P.S. 107 THOMAS A DOOLEY",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "91.29"
-  },
-  {
-    "SCHOOL": "25Q120",
-    "SCHOOL NAME": "P.S. 120 QUEENS",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "94.13"
-  },
-  {
-    "SCHOOL": "25Q129",
-    "SCHOOL NAME": "P.S. 129 PATRICIA LARKIN",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "89.61"
-  },
-  {
-    "SCHOOL": "25Q130",
-    "SCHOOL NAME": "P.S. 130",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "93.33"
-  },
-  {
-    "SCHOOL": "25Q154",
-    "SCHOOL NAME": "P.S. 154 QUEENS",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "82.45"
-  },
-  {
-    "SCHOOL": "25Q163",
-    "SCHOOL NAME": "P.S. 163 FLUSHING HEIGHTS",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "95.22"
-  },
-  {
-    "SCHOOL": "25Q164",
-    "SCHOOL NAME": "P.S. 164 QUEENS VALLEY",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "88.69"
-  },
-  {
-    "SCHOOL": "25Q165",
-    "SCHOOL NAME": "P.S. 165 EDITH K. BERGTRAUM",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "88.04"
-  },
-  {
-    "SCHOOL": "25Q169",
-    "SCHOOL NAME": "P.S. 169 BAY TERRACE",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "93.05"
-  },
-  {
-    "SCHOOL": "25Q184",
-    "SCHOOL NAME": "P.S. 184 FLUSHING MANOR",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "94.11"
-  },
-  {
-    "SCHOOL": "25Q185",
-    "SCHOOL NAME": "J.H.S. 185 EDWARD BLEEKER",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "90.00"
-  },
-  {
-    "SCHOOL": "25Q189",
-    "SCHOOL NAME": "J.H.S. 189 DANIEL CARTER BEARD",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "93.52"
-  },
-  {
-    "SCHOOL": "25Q193",
-    "SCHOOL NAME": "P.S. 193 ALFRED J. KENNEDY",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "91.34"
-  },
-  {
-    "SCHOOL": "25Q194",
-    "SCHOOL NAME": "J.H.S. 194 WILLIAM CARR",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "84.93"
-  },
-  {
-    "SCHOOL": "25Q200",
-    "SCHOOL NAME": "P.S. M.S. 200   THE MAGNET SCHOOL OF GLOBAL STUDIE",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "89.62"
-  },
-  {
-    "SCHOOL": "25Q201",
-    "SCHOOL NAME": "P.S. 201 THE DISCOVERY SCHOOL FOR INQUIRY AND RESE",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "87.32"
-  },
-  {
-    "SCHOOL": "25Q209",
-    "SCHOOL NAME": "P.S. 209 CLEARVIEW GARDENS",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "92.98"
-  },
-  {
-    "SCHOOL": "25Q214",
-    "SCHOOL NAME": "P.S. 214 CADWALLADER COLDEN",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "90.21"
-  },
-  {
-    "SCHOOL": "25Q219",
-    "SCHOOL NAME": "P.S. 219 PAUL KLAPPER",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "90.92"
-  },
-  {
-    "SCHOOL": "25Q237",
-    "SCHOOL NAME": "I.S. 237",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "93.27"
-  },
-  {
-    "SCHOOL": "25Q242",
-    "SCHOOL NAME": "P.S. 242 LEONARD P. STAVISKY EARLY CHILDHOOD SCHOO",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "93.76"
-  },
-  {
-    "SCHOOL": "25Q244",
-    "SCHOOL NAME": "THE ACTIVE LEARNING ELEMENTARY SCHOOL",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "94.19"
-  },
-  {
-    "SCHOOL": "25Q250",
-    "SCHOOL NAME": "I.S. 250 THE ROBERT F. KENNEDY COMMUNITY MIDDLE SC",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "65.75"
-  },
-  {
-    "SCHOOL": "25Q252",
-    "SCHOOL NAME": "QUEENS SCHOOL OF INQUIRY, THE",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "83.70"
-  },
-  {
-    "SCHOOL": "25Q263",
-    "SCHOOL NAME": "FLUSHING INTERNATIONAL HIGH SCHOOL",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "84.13"
-  },
-  {
-    "SCHOOL": "25Q281",
-    "SCHOOL NAME": "EAST WEST SCHOOL OF INTERNATIONAL STUDIES",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "92.01"
-  },
-  {
-    "SCHOOL": "25Q285",
-    "SCHOOL NAME": "WORLD JOURNALISM PREPARATORY: A COLLEGE BOARD SCHO",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "87.31"
-  },
-  {
-    "SCHOOL": "25Q294",
-    "SCHOOL NAME": "BELL ACADEMY",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "92.52"
-  },
-  {
-    "SCHOOL": "25Q379",
-    "SCHOOL NAME": "COLLEGE POINT COLLABORATIVE",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "87.57"
-  },
-  {
-    "SCHOOL": "25Q409",
-    "SCHOOL NAME": "DISTRICT 25 PRE K CENTER",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "73.30"
-  },
-  {
-    "SCHOOL": "25Q499",
-    "SCHOOL NAME": "THE QUEENS COLLEGE SCHOOL FOR MATH, SCIENCE AND TE",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "94.85"
-  },
-  {
-    "SCHOOL": "26Q018",
-    "SCHOOL NAME": "P.S. 018 WINCHESTER",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "91.28"
-  },
-  {
-    "SCHOOL": "26Q026",
-    "SCHOOL NAME": "P.S. 026 RUFUS KING",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "89.81"
-  },
-  {
-    "SCHOOL": "26Q031",
-    "SCHOOL NAME": "P.S. 031 BAYSIDE",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "87.99"
-  },
-  {
-    "SCHOOL": "26Q041",
-    "SCHOOL NAME": "P.S. 041 CROCHERON",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "93.51"
-  },
-  {
-    "SCHOOL": "26Q046",
-    "SCHOOL NAME": "P.S. 046 ALLEY POND",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "94.80"
-  },
-  {
-    "SCHOOL": "26Q067",
-    "SCHOOL NAME": "J.H.S. 067 LOUIS PASTEUR",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "93.46"
-  },
-  {
-    "SCHOOL": "26Q074",
-    "SCHOOL NAME": "J.H.S. 074 NATHANIEL HAWTHORNE",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "93.37"
-  },
-  {
-    "SCHOOL": "26Q094",
-    "SCHOOL NAME": "P.S. 094 DAVID D. PORTER",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "94.93"
-  },
-  {
-    "SCHOOL": "26Q098",
-    "SCHOOL NAME": "P.S. 098 THE DOUGLASTON SCHOOL",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "95.25"
-  },
-  {
-    "SCHOOL": "26Q115",
-    "SCHOOL NAME": "THE JAMES J. AMBROSE SCHOOL",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "89.00"
-  },
-  {
-    "SCHOOL": "26Q133",
-    "SCHOOL NAME": "P.S. 133 QUEENS",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "88.11"
-  },
-  {
-    "SCHOOL": "26Q158",
-    "SCHOOL NAME": "M.S. 158 MARIE CURIE",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "82.28"
-  },
-  {
-    "SCHOOL": "26Q159",
-    "SCHOOL NAME": "P.S. 159",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "91.68"
-  },
-  {
-    "SCHOOL": "26Q162",
-    "SCHOOL NAME": "P.S. 162 JOHN GOLDEN",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "92.07"
-  },
-  {
-    "SCHOOL": "26Q172",
-    "SCHOOL NAME": "IRWIN ALTMAN MIDDLE SCHOOL 172",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "87.66"
-  },
-  {
-    "SCHOOL": "26Q173",
-    "SCHOOL NAME": "P.S. 173 FRESH MEADOWS",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "92.64"
-  },
-  {
-    "SCHOOL": "26Q178",
-    "SCHOOL NAME": "P.S.  IS 178 HOLLISWOOD",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "83.20"
-  },
-  {
-    "SCHOOL": "26Q186",
-    "SCHOOL NAME": "P.S. 186 CASTLEWOOD",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "92.41"
-  },
-  {
-    "SCHOOL": "26Q188",
-    "SCHOOL NAME": "P.S. 188 KINGSBURY",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "96.22"
-  },
-  {
-    "SCHOOL": "26Q191",
-    "SCHOOL NAME": "P.S. 191 MAYFLOWER",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "90.95"
-  },
-  {
-    "SCHOOL": "26Q203",
-    "SCHOOL NAME": "P.S. 203 OAKLAND GARDENS",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "93.94"
-  },
-  {
-    "SCHOOL": "26Q205",
-    "SCHOOL NAME": "P.S. 205 ALEXANDER GRAHAM BELL",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "91.50"
-  },
-  {
-    "SCHOOL": "26Q213",
-    "SCHOOL NAME": "P.S. 213 THE CARL ULLMAN SCHOOL",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "88.80"
-  },
-  {
-    "SCHOOL": "26Q216",
-    "SCHOOL NAME": "J.H.S. 216 GEORGE J. RYAN",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "90.79"
-  },
-  {
-    "SCHOOL": "26Q221",
-    "SCHOOL NAME": "P.S. 221 THE NORTH HILLS SCHOOL",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "92.84"
-  },
-  {
-    "SCHOOL": "26Q266",
-    "SCHOOL NAME": "P.S. I.S. 266",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "81.86"
-  },
-  {
-    "SCHOOL": "26Q376",
-    "SCHOOL NAME": "P.S. 376",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "90.88"
-  },
-  {
-    "SCHOOL": "26Q390",
-    "SCHOOL NAME": "THE CIVIC SCHOOL OF BAYSIDE HILLS",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "88.15"
-  },
-  {
-    "SCHOOL": "27Q042",
-    "SCHOOL NAME": "P.S. M.S 042 R. VERNAM",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "55.87"
-  },
-  {
-    "SCHOOL": "27Q043",
-    "SCHOOL NAME": "P.S. 043",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "NS"
-  },
-  {
-    "SCHOOL": "27Q045",
-    "SCHOOL NAME": "P.S. 045 CLARENCE WITHERSPOON",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "65.81"
-  },
-  {
-    "SCHOOL": "27Q047",
-    "SCHOOL NAME": "P.S. 047 CHRIS GALAS",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "85.37"
-  },
-  {
-    "SCHOOL": "27Q051",
-    "SCHOOL NAME": "P.S. 051",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "91.12"
-  },
-  {
-    "SCHOOL": "27Q053",
-    "SCHOOL NAME": "M.S. 053 BRIAN PICCOLO",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "82.68"
-  },
-  {
-    "SCHOOL": "27Q056",
-    "SCHOOL NAME": "P.S. 056 HARRY EICHLER",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "86.03"
-  },
-  {
-    "SCHOOL": "27Q060",
-    "SCHOOL NAME": "P.S. 060 WOODHAVEN",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "85.40"
-  },
-  {
-    "SCHOOL": "27Q062",
-    "SCHOOL NAME": "P. S. 62   CHESTER PARK SCHOOL",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "83.92"
-  },
-  {
-    "SCHOOL": "27Q063",
-    "SCHOOL NAME": "P.S. 063 OLD SOUTH",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "81.19"
-  },
-  {
-    "SCHOOL": "27Q064",
-    "SCHOOL NAME": "P.S. 064 JOSEPH P. ADDABBO",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "86.32"
-  },
-  {
-    "SCHOOL": "27Q065",
-    "SCHOOL NAME": "P.S. 65   THE RAYMOND YORK ELEMENTARY SCHOOL",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "81.17"
-  },
-  {
-    "SCHOOL": "27Q066",
-    "SCHOOL NAME": "P.S. 066 JACQUELINE KENNEDY ONASSIS",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "85.16"
-  },
-  {
-    "SCHOOL": "27Q090",
-    "SCHOOL NAME": "P.S. 090 HORACE MANN",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "85.06"
-  },
-  {
-    "SCHOOL": "27Q096",
-    "SCHOOL NAME": "P.S. 096",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "79.40"
-  },
-  {
-    "SCHOOL": "27Q097",
-    "SCHOOL NAME": "P.S. 097 FOREST PARK",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "81.13"
-  },
-  {
-    "SCHOOL": "27Q100",
-    "SCHOOL NAME": "P.S. 100 GLEN MORRIS",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "79.40"
-  },
-  {
-    "SCHOOL": "27Q104",
-    "SCHOOL NAME": "P.S. 104 THE BAYS WATER",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "76.84"
-  },
-  {
-    "SCHOOL": "27Q105",
-    "SCHOOL NAME": "P.S. 105 THE BAY SCHOOL",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "58.22"
-  },
-  {
-    "SCHOOL": "27Q106",
-    "SCHOOL NAME": "LIGHTHOUSE ELEMENTARY SCHOOL",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "74.49"
-  },
-  {
-    "SCHOOL": "27Q108",
-    "SCHOOL NAME": "P.S. 108 CAPTAIN VINCENT G. FOWLER",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "85.20"
-  },
-  {
-    "SCHOOL": "27Q114",
-    "SCHOOL NAME": "P.S. M.S. 114 BELLE HARBOR",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "NS"
-  },
-  {
-    "SCHOOL": "27Q123",
-    "SCHOOL NAME": "P.S. 123",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "74.23"
-  },
-  {
-    "SCHOOL": "27Q124",
-    "SCHOOL NAME": "P.S. 124 OSMOND A CHURCH",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "84.11"
-  },
-  {
-    "SCHOOL": "27Q137",
-    "SCHOOL NAME": "M.S. 137 AMERICA S SCHOOL OF HEROES",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "59.00"
-  },
-  {
-    "SCHOOL": "27Q146",
-    "SCHOOL NAME": "P.S. 146 HOWARD BEACH",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "84.79"
-  },
-  {
-    "SCHOOL": "27Q155",
-    "SCHOOL NAME": "P.S. 155",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "83.30"
-  },
-  {
-    "SCHOOL": "27Q183",
-    "SCHOOL NAME": "P.S. 183 DR. RICHARD R. GREEN",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "57.83"
-  },
-  {
-    "SCHOOL": "27Q197",
-    "SCHOOL NAME": "P.S. 197 THE OCEAN SCHOOL",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "73.38"
-  },
-  {
-    "SCHOOL": "27Q202",
-    "SCHOOL NAME": "J.H.S. 202 ROBERT H. GODDARD",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "76.30"
-  },
-  {
-    "SCHOOL": "27Q207",
-    "SCHOOL NAME": "P.S. 207 ROCKWOOD PARK",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "87.32"
-  },
-  {
-    "SCHOOL": "27Q210",
-    "SCHOOL NAME": "J.H.S. 210 ELIZABETH BLACKWELL",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "63.15"
-  },
-  {
-    "SCHOOL": "27Q223",
-    "SCHOOL NAME": "P.S. 223 LYNDON B. JOHNSON",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "65.13"
-  },
-  {
-    "SCHOOL": "27Q226",
-    "SCHOOL NAME": "J.H.S. 226 VIRGIL I. GRISSOM",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "79.83"
-  },
-  {
-    "SCHOOL": "27Q232",
-    "SCHOOL NAME": "P.S. 232 LINDENWOOD",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "79.34"
-  },
-  {
-    "SCHOOL": "27Q253",
-    "SCHOOL NAME": "P.S. 253",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "79.75"
-  },
-  {
-    "SCHOOL": "27Q254",
-    "SCHOOL NAME": "P.S. 254   THE ROSA PARKS SCHOOL",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "83.15"
-  },
-  {
-    "SCHOOL": "27Q262",
-    "SCHOOL NAME": "CHANNEL VIEW SCHOOL FOR RESEARCH",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "78.72"
-  },
-  {
-    "SCHOOL": "27Q273",
-    "SCHOOL NAME": "P.S. 273",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "85.89"
-  },
-  {
-    "SCHOOL": "27Q282",
-    "SCHOOL NAME": "KNOWLEDGE AND POWER PREPARATORY ACADEMY VI",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "88.46"
-  },
-  {
-    "SCHOOL": "27Q297",
-    "SCHOOL NAME": "HAWTREE CREEK MIDDLE SCHOOL",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "72.39"
-  },
-  {
-    "SCHOOL": "27Q306",
-    "SCHOOL NAME": "NEW YORK CITY ACADEMY FOR DISCOVERY",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "81.89"
-  },
-  {
-    "SCHOOL": "27Q309",
-    "SCHOOL NAME": "ACADEMY OF MEDICAL TECHNOLOGY: A COLLEGE BOARD SCH",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "54.79"
-  },
-  {
-    "SCHOOL": "27Q316",
-    "SCHOOL NAME": "QUEENS EXPLORERS ELEMENTARY SCHOOL",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "87.91"
-  },
-  {
-    "SCHOOL": "27Q317",
-    "SCHOOL NAME": "WATERSIDE CHILDREN S STUDIO SCHOOL",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "73.85"
-  },
-  {
-    "SCHOOL": "27Q318",
-    "SCHOOL NAME": "WATERSIDE SCHOOL FOR LEADERSHIP",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "62.73"
-  },
-  {
-    "SCHOOL": "27Q319",
-    "SCHOOL NAME": "VILLAGE ACADEMY",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "81.96"
-  },
-  {
-    "SCHOOL": "27Q323",
-    "SCHOOL NAME": "SCHOLARS  ACADEMY",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "95.47"
-  },
-  {
-    "SCHOOL": "27Q333",
-    "SCHOOL NAME": "GOLDIE MAPLE ACADEMY",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "73.13"
-  },
-  {
-    "SCHOOL": "27Q336",
-    "SCHOOL NAME": "CURIOUS YOUNG LEARNERS PRE K CENTER",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "75.72"
-  },
-  {
-    "SCHOOL": "27Q362",
-    "SCHOOL NAME": "WAVE PREPARATORY ELEMENTARY SCHOOL",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "84.06"
-  },
-  {
-    "SCHOOL": "27Q377",
-    "SCHOOL NAME": "P.S. 377",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "87.74"
-  },
-  {
-    "SCHOOL": "28Q008",
-    "SCHOOL NAME": "J.H.S. 008 RICHARD S. GROSSLEY",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "58.78"
-  },
-  {
-    "SCHOOL": "28Q040",
-    "SCHOOL NAME": "P.S. 040 SAMUEL HUNTINGTON",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "68.48"
-  },
-  {
-    "SCHOOL": "28Q048",
-    "SCHOOL NAME": "DAVID N. DINKINS SCHOOL",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "76.94"
-  },
-  {
-    "SCHOOL": "28Q050",
-    "SCHOOL NAME": "P.S. 050 TALFOURD LAWN ELEMENTARY SCHOOL",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "84.68"
-  },
-  {
-    "SCHOOL": "28Q054",
-    "SCHOOL NAME": "P.S. 054 HILLSIDE",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "86.89"
-  },
-  {
-    "SCHOOL": "28Q055",
-    "SCHOOL NAME": "P.S. 055 MAURE",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "82.73"
-  },
-  {
-    "SCHOOL": "28Q072",
-    "SCHOOL NAME": "CATHERINE   COUNT BASIE MIDDLE SCHOOL 72",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "79.69"
-  },
-  {
-    "SCHOOL": "28Q080",
-    "SCHOOL NAME": "PS 80  THE THURGOOD MARSHALL MAGNET SCHOOL OF MULT",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "78.34"
-  },
-  {
-    "SCHOOL": "28Q082",
-    "SCHOOL NAME": "P.S. 082 HAMMOND",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "84.73"
-  },
-  {
-    "SCHOOL": "28Q086",
-    "SCHOOL NAME": "P.S. Q086",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "88.78"
-  },
-  {
-    "SCHOOL": "28Q099",
-    "SCHOOL NAME": "P.S. 099 KEW GARDENS",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "90.01"
-  },
-  {
-    "SCHOOL": "28Q101",
-    "SCHOOL NAME": "P.S. 101 SCHOOL IN THE GARDENS",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "93.90"
-  },
-  {
-    "SCHOOL": "28Q117",
-    "SCHOOL NAME": "P.S. 117 J. KELD   BRIARWOOD SCHOOL",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "79.92"
-  },
-  {
-    "SCHOOL": "28Q121",
-    "SCHOOL NAME": "P.S. 121 QUEENS",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "78.08"
-  },
-  {
-    "SCHOOL": "28Q139",
-    "SCHOOL NAME": "P.S. 139 REGO PARK",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "83.30"
-  },
-  {
-    "SCHOOL": "28Q140",
-    "SCHOOL NAME": "P.S. 140 EDWARD K ELLINGTON",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "82.24"
-  },
-  {
-    "SCHOOL": "28Q144",
-    "SCHOOL NAME": "P.S. 144 COL JEROMUS REMSEN",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "91.18"
-  },
-  {
-    "SCHOOL": "28Q157",
-    "SCHOOL NAME": "J.H.S. 157 STEPHEN A. HALSEY",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "82.20"
-  },
-  {
-    "SCHOOL": "28Q160",
-    "SCHOOL NAME": "P.S. 160 WALTER FRANCIS BISHOP",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "54.62"
-  },
-  {
-    "SCHOOL": "28Q161",
-    "SCHOOL NAME": "P.S. 161 ARTHUR ASHE SCHOOL",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "79.73"
-  },
-  {
-    "SCHOOL": "28Q167",
-    "SCHOOL NAME": "METROPOLITAN EXPEDITIONARY LEARNING SCHOOL",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "81.60"
-  },
-  {
-    "SCHOOL": "28Q174",
-    "SCHOOL NAME": "P.S. 174 WILLIAM SIDNEY MOUNT",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "92.03"
-  },
-  {
-    "SCHOOL": "28Q175",
-    "SCHOOL NAME": "P.S. 175 THE LYNN GROSS DISCOVERY SCHOOL",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "83.74"
-  },
-  {
-    "SCHOOL": "28Q182",
-    "SCHOOL NAME": "P.S. 182 SAMANTHA SMITH",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "89.19"
-  },
-  {
-    "SCHOOL": "28Q190",
-    "SCHOOL NAME": "J.H.S. 190 RUSSELL SAGE",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "73.51"
-  },
-  {
-    "SCHOOL": "28Q196",
-    "SCHOOL NAME": "P.S. 196 GRAND CENTRAL PARKWAY",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "91.91"
-  },
-  {
-    "SCHOOL": "28Q206",
-    "SCHOOL NAME": "P.S. 206 THE HORACE HARDING SCHOOL",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "79.44"
-  },
-  {
-    "SCHOOL": "28Q217",
-    "SCHOOL NAME": "J.H.S. 217 ROBERT A. VAN WYCK",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "78.05"
-  },
-  {
-    "SCHOOL": "28Q220",
-    "SCHOOL NAME": "P.S. 220 EDWARD MANDEL",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "80.48"
-  },
-  {
-    "SCHOOL": "28Q284",
-    "SCHOOL NAME": "YORK EARLY COLLEGE ACADEMY",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "73.81"
-  },
-  {
-    "SCHOOL": "28Q287",
-    "SCHOOL NAME": "THE EMERSON SCHOOL",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "59.42"
-  },
-  {
-    "SCHOOL": "28Q303",
-    "SCHOOL NAME": "THE ACADEMY FOR EXCELLENCE THROUGH THE ARTS",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "93.82"
-  },
-  {
-    "SCHOOL": "28Q310",
-    "SCHOOL NAME": "QUEENS COLLEGIATE: A COLLEGE BOARD SCHOOL",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "72.34"
-  },
-  {
-    "SCHOOL": "28Q312",
-    "SCHOOL NAME": "JAMAICA CHILDREN S SCHOOL",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "74.10"
-  },
-  {
-    "SCHOOL": "28Q328",
-    "SCHOOL NAME": "HIGH SCHOOL FOR COMMUNITY LEADERSHIP",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "NS"
-  },
-  {
-    "SCHOOL": "28Q332",
-    "SCHOOL NAME": "REDWOOD MIDDLE SCHOOL",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "61.99"
-  },
-  {
-    "SCHOOL": "28Q335",
-    "SCHOOL NAME": "THE EZRA JACK KEATS PRE K CENTER",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "91.70"
-  },
-  {
-    "SCHOOL": "28Q338",
-    "SCHOOL NAME": "QUEENS SATELLITE HIGH SCHOOL FOR OPPORTUNITY",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "40.00"
-  },
-  {
-    "SCHOOL": "28Q349",
-    "SCHOOL NAME": "THE QUEENS SCHOOL FOR LEADERSHIP AND EXCELLENCE",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "85.76"
-  },
-  {
-    "SCHOOL": "28Q354",
-    "SCHOOL NAME": "THE JERMAINE L. GREEN STEM INSTITUTE OF QUEENS",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "71.45"
-  },
-  {
-    "SCHOOL": "28Q358",
-    "SCHOOL NAME": "M.S. 358",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "85.04"
-  },
-  {
-    "SCHOOL": "28Q680",
-    "SCHOOL NAME": "QUEENS GATEWAY TO HEALTH SCIENCES SECONDARY SCHOOL",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "87.27"
-  },
-  {
-    "SCHOOL": "28Q896",
-    "SCHOOL NAME": "YOUNG WOMEN S LEADERSHIP SCHOOL, QUEENS",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "75.84"
-  },
-  {
-    "SCHOOL": "29Q015",
-    "SCHOOL NAME": "P.S. 015 JACKIE ROBINSON",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "79.50"
-  },
-  {
-    "SCHOOL": "29Q033",
-    "SCHOOL NAME": "P.S. 033 EDWARD M. FUNK",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "81.22"
-  },
-  {
-    "SCHOOL": "29Q034",
-    "SCHOOL NAME": "P.S. 034 JOHN HARVARD",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "78.13"
-  },
-  {
-    "SCHOOL": "29Q035",
-    "SCHOOL NAME": "P.S. 035 NATHANIEL WOODHULL",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "62.56"
-  },
-  {
-    "SCHOOL": "29Q036",
-    "SCHOOL NAME": "P.S. 036 SAINT ALBANS SCHOOL",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "73.98"
-  },
-  {
-    "SCHOOL": "29Q037",
-    "SCHOOL NAME": "CYNTHIA JENKINS SCHOOL",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "68.60"
-  },
-  {
-    "SCHOOL": "29Q038",
-    "SCHOOL NAME": "P.S. 038 ROSEDALE",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "71.13"
-  },
-  {
-    "SCHOOL": "29Q052",
-    "SCHOOL NAME": "P.S. 052 QUEENS",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "72.82"
-  },
-  {
-    "SCHOOL": "29Q059",
-    "SCHOOL NAME": "I.S. 059 SPRINGFIELD GARDENS",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "51.85"
-  },
-  {
-    "SCHOOL": "29Q095",
-    "SCHOOL NAME": "P.S. 095 EASTWOOD",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "63.15"
-  },
-  {
-    "SCHOOL": "29Q109",
-    "SCHOOL NAME": "JEAN NUZZI INTERMEDIATE SCHOOL",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "81.32"
-  },
-  {
-    "SCHOOL": "29Q116",
-    "SCHOOL NAME": "P.S. I.S. 116 WILLIAM C. HUGHLEY",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "74.03"
-  },
-  {
-    "SCHOOL": "29Q118",
-    "SCHOOL NAME": "P.S. 118 LORRAINE HANSBERRY",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "74.31"
-  },
-  {
-    "SCHOOL": "29Q131",
-    "SCHOOL NAME": "P.S. 131 ABIGAIL ADAMS",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "86.56"
-  },
-  {
-    "SCHOOL": "29Q132",
-    "SCHOOL NAME": "P.S. 132 RALPH BUNCHE",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "75.86"
-  },
-  {
-    "SCHOOL": "29Q134",
-    "SCHOOL NAME": "P.S. 134 HOLLIS",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "74.03"
-  },
-  {
-    "SCHOOL": "29Q135",
-    "SCHOOL NAME": "THE BELLAIRE SCHOOL",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "79.18"
-  },
-  {
-    "SCHOOL": "29Q136",
-    "SCHOOL NAME": "P.S. 136 ROY WILKINS",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "63.71"
-  },
-  {
-    "SCHOOL": "29Q138",
-    "SCHOOL NAME": "P.S. M.S. 138 SUNRISE",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "56.16"
-  },
-  {
-    "SCHOOL": "29Q147",
-    "SCHOOL NAME": "P.S. M.S. 147 RONALD MCNAIR",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "76.22"
-  },
-  {
-    "SCHOOL": "29Q156",
-    "SCHOOL NAME": "P.S. 156 LAURELTON",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "84.24"
-  },
-  {
-    "SCHOOL": "29Q176",
-    "SCHOOL NAME": "P.S. 176 CAMBRIA HEIGHTS",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "81.13"
-  },
-  {
-    "SCHOOL": "29Q181",
-    "SCHOOL NAME": "P.S. 181 BROOKFIELD",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "NS"
-  },
-  {
-    "SCHOOL": "29Q192",
-    "SCHOOL NAME": "I.S. 192 THE LINDEN",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "81.31"
-  },
-  {
-    "SCHOOL": "29Q195",
-    "SCHOOL NAME": "P.S. 195 WILLIAM HABERLE",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "57.06"
-  },
-  {
-    "SCHOOL": "29Q208",
-    "SCHOOL NAME": "P.S. I.S. 208",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "79.87"
-  },
-  {
-    "SCHOOL": "29Q238",
-    "SCHOOL NAME": "I.S. 238   SUSAN B. ANTHONY ACADEMY",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "63.08"
-  },
-  {
-    "SCHOOL": "29Q251",
-    "SCHOOL NAME": "P.S. 251 QUEENS",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "71.48"
-  },
-  {
-    "SCHOOL": "29Q259",
-    "SCHOOL NAME": "PATHWAYS COLLEGE PREPARATORY SCHOOL: A COLLEGE BOA",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "NS"
-  },
-  {
-    "SCHOOL": "29Q268",
-    "SCHOOL NAME": "P.S. I.S. 268",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "85.05"
-  },
-  {
-    "SCHOOL": "29Q270",
-    "SCHOOL NAME": "THE GORDON PARKS SCHOOL",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "NS"
-  },
-  {
-    "SCHOOL": "29Q283",
-    "SCHOOL NAME": "PREPARATORY ACADEMY FOR WRITERS: A COLLEGE BOARD S",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "NS"
-  },
-  {
-    "SCHOOL": "29Q289",
-    "SCHOOL NAME": "QUEENS UNITED MIDDLE SCHOOL",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "90.90"
-  },
-  {
-    "SCHOOL": "29Q295",
-    "SCHOOL NAME": "P.S. I.S. 295",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "90.00"
-  },
-  {
-    "SCHOOL": "29Q327",
-    "SCHOOL NAME": "EAGLE ACADEMY FOR YOUNG MEN III",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "100.00"
-  },
-  {
-    "SCHOOL": "29Q355",
-    "SCHOOL NAME": "COLLABORATIVE ARTS MIDDLE SCHOOL",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "65.47"
-  },
-  {
-    "SCHOOL": "29Q356",
-    "SCHOOL NAME": "COMMUNITY VOICES MIDDLE SCHOOL",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "59.22"
-  },
-  {
-    "SCHOOL": "29Q360",
-    "SCHOOL NAME": "P.S. 360",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "83.33"
-  },
-  {
-    "SCHOOL": "29Q381",
-    "SCHOOL NAME": "DISTRICT 29 PRE K CENTER",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "69.49"
-  },
-  {
-    "SCHOOL": "30Q002",
-    "SCHOOL NAME": "P.S. 002 ALFRED ZIMBERG",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "87.89"
-  },
-  {
-    "SCHOOL": "30Q010",
-    "SCHOOL NAME": "I.S. 010 HORACE GREELEY",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "56.22"
-  },
-  {
-    "SCHOOL": "30Q011",
-    "SCHOOL NAME": "P.S. 011 KATHRYN PHELAN",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "90.75"
-  },
-  {
-    "SCHOOL": "30Q017",
-    "SCHOOL NAME": "P.S. 017 HENRY DAVID THOREAU",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "87.08"
-  },
-  {
-    "SCHOOL": "30Q069",
-    "SCHOOL NAME": "P.S. 069 JACKSON HEIGHTS",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "85.00"
-  },
-  {
-    "SCHOOL": "30Q070",
-    "SCHOOL NAME": "P.S. 070",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "88.31"
-  },
-  {
-    "SCHOOL": "30Q076",
-    "SCHOOL NAME": "P.S. 076 WILLIAM HALLET",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "81.79"
-  },
-  {
-    "SCHOOL": "30Q078",
-    "SCHOOL NAME": "P.S. I.S. 78Q",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "86.45"
-  },
-  {
-    "SCHOOL": "30Q084",
-    "SCHOOL NAME": "P.S. 084 STEINWAY",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "86.83"
-  },
-  {
-    "SCHOOL": "30Q085",
-    "SCHOOL NAME": "P.S. 085 JUDGE CHARLES VALLONE",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "85.49"
-  },
-  {
-    "SCHOOL": "30Q092",
-    "SCHOOL NAME": "P.S. 092 HARRY T. STEWART SR.",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "92.52"
-  },
-  {
-    "SCHOOL": "30Q111",
-    "SCHOOL NAME": "P.S. 111 JACOB BLACKWELL",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "65.15"
-  },
-  {
-    "SCHOOL": "30Q112",
-    "SCHOOL NAME": "P.S. 112 DUTCH KILLS",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "82.16"
-  },
-  {
-    "SCHOOL": "30Q122",
-    "SCHOOL NAME": "P.S. 122 MAMIE FAY",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "88.15"
-  },
-  {
-    "SCHOOL": "30Q126",
-    "SCHOOL NAME": "ALBERT SHANKER SCHOOL FOR VISUAL AND PERFORMING AR",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "78.13"
-  },
-  {
-    "SCHOOL": "30Q127",
-    "SCHOOL NAME": "P.S. 127 AEROSPACE SCIENCE MAGNET SCHOOL",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "83.15"
-  },
-  {
-    "SCHOOL": "30Q141",
-    "SCHOOL NAME": "I.S. 141 THE STEINWAY",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "76.78"
-  },
-  {
-    "SCHOOL": "30Q145",
-    "SCHOOL NAME": "I.S. 145 JOSEPH PULITZER",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "79.03"
-  },
-  {
-    "SCHOOL": "30Q148",
-    "SCHOOL NAME": "P.S. 148 QUEENS",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "85.55"
-  },
-  {
-    "SCHOOL": "30Q149",
-    "SCHOOL NAME": "P.S. 149 CHRISTA MCAULIFFE",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "91.10"
-  },
-  {
-    "SCHOOL": "30Q150",
-    "SCHOOL NAME": "P.S. 150 QUEENS",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "87.36"
-  },
-  {
-    "SCHOOL": "30Q151",
-    "SCHOOL NAME": "P.S. 151 MARY D. CARTER",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "77.92"
-  },
-  {
-    "SCHOOL": "30Q152",
-    "SCHOOL NAME": "P.S. 152 GWENDOLINE N. ALLEYNE SCHOOL",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "89.01"
-  },
-  {
-    "SCHOOL": "30Q166",
-    "SCHOOL NAME": "P.S. 166 HENRY GRADSTEIN",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "86.19"
-  },
-  {
-    "SCHOOL": "30Q171",
-    "SCHOOL NAME": "P.S. 171 PETER G. VAN ALST",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "82.02"
-  },
-  {
-    "SCHOOL": "30Q204",
-    "SCHOOL NAME": "I.S. 204 OLIVER W. HOLMES",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "81.11"
-  },
-  {
-    "SCHOOL": "30Q212",
-    "SCHOOL NAME": "P.S. 212",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "84.36"
-  },
-  {
-    "SCHOOL": "30Q222",
-    "SCHOOL NAME": "P.S. Q222   FIRE FIGHTER CHRISTOPHER A. SANTORA SC",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "82.60"
-  },
-  {
-    "SCHOOL": "30Q227",
-    "SCHOOL NAME": "I.S. 227 LOUIS ARMSTRONG",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "88.64"
-  },
-  {
-    "SCHOOL": "30Q228",
-    "SCHOOL NAME": "THE IVAN LAFAYETTE EARLY CHILDHOOD SCHOOL OF THE A",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "87.67"
-  },
-  {
-    "SCHOOL": "30Q230",
-    "SCHOOL NAME": "I.S. 230",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "93.85"
-  },
-  {
-    "SCHOOL": "30Q234",
-    "SCHOOL NAME": "P.S. 234",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "82.69"
-  },
-  {
-    "SCHOOL": "30Q235",
-    "SCHOOL NAME": "ACADEMY FOR NEW AMERICANS",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "89.04"
-  },
-  {
-    "SCHOOL": "30Q280",
-    "SCHOOL NAME": "PS280Q: HOME OF THE LIONHEARTS",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "92.33"
-  },
-  {
-    "SCHOOL": "30Q286",
-    "SCHOOL NAME": "YOUNG WOMEN S LEADERSHIP SCHOOL, ASTORIA",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "91.32"
-  },
-  {
-    "SCHOOL": "30Q291",
-    "SCHOOL NAME": "HUNTERS POINT COMMUNITY MIDDLE SCHOOL",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "87.63"
-  },
-  {
-    "SCHOOL": "30Q300",
-    "SCHOOL NAME": "THE 30TH AVENUE SCHOOL  G T CITYWIDE",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "93.48"
-  },
-  {
-    "SCHOOL": "30Q329",
-    "SCHOOL NAME": "EAST ELMHURST COMMUNITY SCHOOL",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "90.88"
-  },
-  {
-    "SCHOOL": "30Q361",
-    "SCHOOL NAME": "THE WOODSIDE COMMUNITY SCHOOL",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "88.95"
-  },
-  {
-    "SCHOOL": "30Q384",
-    "SCHOOL NAME": "HUNTERS POINT ELEMENTARY SCHOOL",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "90.25"
-  },
-  {
-    "SCHOOL": "30Q389",
-    "SCHOOL NAME": "DISTRICT 30 PRE K CENTER",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "68.47"
-  },
-  {
-    "SCHOOL": "30Q398",
-    "SCHOOL NAME": "THE HECTOR FIGUEROA SCHOOL",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "83.20"
-  },
-  {
-    "SCHOOL": "30Q580",
-    "SCHOOL NAME": "BACCALAUREATE SCHOOL FOR GLOBAL EDUCATION",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "NS"
-  },
-  {
-    "SCHOOL": "31R001",
-    "SCHOOL NAME": "P.S. 001 TOTTENVILLE",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "88.23"
-  },
-  {
-    "SCHOOL": "31R002",
-    "SCHOOL NAME": "I.S. R002 GEORGE L. EGBERT",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "82.54"
-  },
-  {
-    "SCHOOL": "31R003",
-    "SCHOOL NAME": "P.S. 003 THE MARGARET GIOIOSA SCHOOL",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "90.76"
-  },
-  {
-    "SCHOOL": "31R004",
-    "SCHOOL NAME": "P.S. 004 MAURICE WOLLIN",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "87.81"
-  },
-  {
-    "SCHOOL": "31R005",
-    "SCHOOL NAME": "P.S. 005 HUGUENOT",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "94.70"
-  },
-  {
-    "SCHOOL": "31R006",
-    "SCHOOL NAME": "P.S. 6 CORPORAL ALLAN F. KIVLEHAN SCHOOL",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "85.80"
-  },
-  {
-    "SCHOOL": "31R007",
-    "SCHOOL NAME": "I.S. 007 ELIAS BERNSTEIN",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "86.20"
-  },
-  {
-    "SCHOOL": "31R008",
-    "SCHOOL NAME": "P.S. 8 SHIRLEE SOLOMON",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "91.04"
-  },
-  {
-    "SCHOOL": "31R009",
-    "SCHOOL NAME": "NAPLES STREET ELEMENTARY SCHOOL",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "93.35"
-  },
-  {
-    "SCHOOL": "31R010",
-    "SCHOOL NAME": "FORT HILL COLLABORATIVE ELEMENTARY SCHOOL",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "72.77"
-  },
-  {
-    "SCHOOL": "31R011",
-    "SCHOOL NAME": "P.S. 11 THOMAS DONGAN SCHOOL",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "81.11"
-  },
-  {
-    "SCHOOL": "31R013",
-    "SCHOOL NAME": "P.S. 013 M. L. LINDEMEYER",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "87.46"
-  },
-  {
-    "SCHOOL": "31R016",
-    "SCHOOL NAME": "P.S. 016 JOHN J. DRISCOLL",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "81.41"
-  },
-  {
-    "SCHOOL": "31R018",
-    "SCHOOL NAME": "P.S. 018 JOHN G. WHITTIER",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "72.59"
-  },
-  {
-    "SCHOOL": "31R019",
-    "SCHOOL NAME": "P.S. 019 THE CURTIS SCHOOL",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "80.17"
-  },
-  {
-    "SCHOOL": "31R020",
-    "SCHOOL NAME": "P.S. 020 PORT RICHMOND",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "78.34"
-  },
-  {
-    "SCHOOL": "31R021",
-    "SCHOOL NAME": "P.S. 21 MARGARET EMERY ELM PARK",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "72.82"
-  },
-  {
-    "SCHOOL": "31R022",
-    "SCHOOL NAME": "P.S. 022 GRANITEVILLE",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "86.94"
-  },
-  {
-    "SCHOOL": "31R023",
-    "SCHOOL NAME": "P.S. 023 RICHMONDTOWN",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "85.71"
-  },
-  {
-    "SCHOOL": "31R024",
-    "SCHOOL NAME": "I.S. 024 MYRA S. BARNES",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "89.15"
-  },
-  {
-    "SCHOOL": "31R026",
-    "SCHOOL NAME": "P.S. 026 THE CARTERET SCHOOL",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "89.08"
-  },
-  {
-    "SCHOOL": "31R027",
-    "SCHOOL NAME": "I.S. 027 ANNING S. PRALL",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "59.06"
-  },
-  {
-    "SCHOOL": "31R028",
-    "SCHOOL NAME": "THE EAGLE ACADEMY FOR YOUNG MEN OF STATEN ISLAND",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "56.56"
-  },
-  {
-    "SCHOOL": "31R029",
-    "SCHOOL NAME": "P.S. 029 BARDWELL",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "89.11"
-  },
-  {
-    "SCHOOL": "31R030",
-    "SCHOOL NAME": "P.S. 030 WESTERLEIGH",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "90.89"
-  },
-  {
-    "SCHOOL": "31R031",
-    "SCHOOL NAME": "P.S. 031 WILLIAM T. DAVIS",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "68.45"
-  },
-  {
-    "SCHOOL": "31R032",
-    "SCHOOL NAME": "P.S. 032 THE GIFFORD SCHOOL",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "91.25"
-  },
-  {
-    "SCHOOL": "31R034",
-    "SCHOOL NAME": "I.S. 034 TOTTENVILLE",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "85.15"
-  },
-  {
-    "SCHOOL": "31R035",
-    "SCHOOL NAME": "P.S. 35 THE CLOVE VALLEY SCHOOL",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "90.15"
-  },
-  {
-    "SCHOOL": "31R036",
-    "SCHOOL NAME": "P.S. 036 J. C. DRUMGOOLE",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "91.58"
-  },
-  {
-    "SCHOOL": "31R038",
-    "SCHOOL NAME": "P.S. 038 GEORGE CROMWELL",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "89.15"
-  },
-  {
-    "SCHOOL": "31R039",
-    "SCHOOL NAME": "P.S. 39 FRANCIS J. MURPHY JR.",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "84.06"
-  },
-  {
-    "SCHOOL": "31R041",
-    "SCHOOL NAME": "THE STEPHANIE A. VIERNO SCHOOL",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "89.54"
-  },
-  {
-    "SCHOOL": "31R042",
-    "SCHOOL NAME": "P.S. 042 ELTINGVILLE",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "93.93"
-  },
-  {
-    "SCHOOL": "31R044",
-    "SCHOOL NAME": "P.S. 044 THOMAS C. BROWN",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "63.57"
-  },
-  {
-    "SCHOOL": "31R045",
-    "SCHOOL NAME": "P.S. 045 JOHN TYLER",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "80.53"
-  },
-  {
-    "SCHOOL": "31R046",
-    "SCHOOL NAME": "P.S. 046 ALBERT V. MANISCALCO",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "76.96"
-  },
-  {
-    "SCHOOL": "31R048",
-    "SCHOOL NAME": "P.S. 048 WILLIAM G. WILCOX",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "83.50"
-  },
-  {
-    "SCHOOL": "31R049",
-    "SCHOOL NAME": "I.S. 49 BERTA A. DREYFUS",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "69.58"
-  },
-  {
-    "SCHOOL": "31R050",
-    "SCHOOL NAME": "P.S. 050 FRANK HANKINSON",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "87.58"
-  },
-  {
-    "SCHOOL": "31R051",
-    "SCHOOL NAME": "I.S. 051 EDWIN MARKHAM",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "77.05"
-  },
-  {
-    "SCHOOL": "31R052",
-    "SCHOOL NAME": "P.S. 052 JOHN C. THOMPSON",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "88.36"
-  },
-  {
-    "SCHOOL": "31R053",
-    "SCHOOL NAME": "THE BARBARA ESSELBORN SCHOOL",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "92.51"
-  },
-  {
-    "SCHOOL": "31R054",
-    "SCHOOL NAME": "P.S. 054 CHARLES W. LENG",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "88.06"
-  },
-  {
-    "SCHOOL": "31R055",
-    "SCHOOL NAME": "P.S. 055 HENRY M. BOEHM",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "93.71"
-  },
-  {
-    "SCHOOL": "31R056",
-    "SCHOOL NAME": "P.S. 56 THE LOUIS DESARIO SCHOOL",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "92.18"
-  },
-  {
-    "SCHOOL": "31R057",
-    "SCHOOL NAME": "P.S. 057 HUBERT H. HUMPHREY",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "70.36"
-  },
-  {
-    "SCHOOL": "31R058",
-    "SCHOOL NAME": "SPACE SHUTTLE COLUMBIA SCHOOL",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "87.19"
-  },
-  {
-    "SCHOOL": "31R059",
-    "SCHOOL NAME": "THE HARBOR VIEW SCHOOL",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "83.33"
-  },
-  {
-    "SCHOOL": "31R060",
-    "SCHOOL NAME": "P.S. 060 ALICE AUSTEN",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "89.28"
-  },
-  {
-    "SCHOOL": "31R061",
-    "SCHOOL NAME": "I.S. 061 WILLIAM A MORRIS",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "48.57"
-  },
-  {
-    "SCHOOL": "31R062",
-    "SCHOOL NAME": "THE KATHLEEN GRIMM SCHOOL FOR LEADERSHIP AND SUSTA",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "87.58"
-  },
-  {
-    "SCHOOL": "31R063",
-    "SCHOOL NAME": "MARSH AVENUE SCHOOL FOR EXPEDITIONARY LEARNING",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "93.27"
-  },
-  {
-    "SCHOOL": "31R065",
-    "SCHOOL NAME": "P.S. 65 THE ACADEMY OF INNOVATIVE LEARNING",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "85.71"
-  },
-  {
-    "SCHOOL": "31R066",
-    "SCHOOL NAME": "THE RICHMOND PRE K CENTER",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "87.74"
-  },
-  {
-    "SCHOOL": "31R068",
-    "SCHOOL NAME": "PORT RICHMOND SCHOOL FOR VISIONARY LEARNING",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "88.62"
-  },
-  {
-    "SCHOOL": "31R069",
-    "SCHOOL NAME": "P.S. 069 DANIEL D. TOMPKINS",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "91.90"
-  },
-  {
-    "SCHOOL": "31R072",
-    "SCHOOL NAME": "I.S. 072 ROCCO LAURIE",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "78.75"
-  },
-  {
-    "SCHOOL": "31R074",
-    "SCHOOL NAME": "P.S. 74 FUTURE LEADERS ELEMENTARY SCHOOL",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "64.05"
-  },
-  {
-    "SCHOOL": "31R075",
-    "SCHOOL NAME": "I.S. 075 FRANK D. PAULO",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "86.57"
-  },
-  {
-    "SCHOOL": "31R078",
-    "SCHOOL NAME": "P.S. 78",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "75.28"
-  },
-  {
-    "SCHOOL": "31R080",
-    "SCHOOL NAME": "THE MICHAEL J. PETRIDES SCHOOL",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "84.19"
-  },
-  {
-    "SCHOOL": "31R861",
-    "SCHOOL NAME": "STATEN ISLAND SCHOOL OF CIVIC LEADERSHIP",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "74.30"
-  },
-  {
-    "SCHOOL": "32K045",
-    "SCHOOL NAME": "P.S. I.S. 045 HORACE E. GREENE",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "74.95"
-  },
-  {
-    "SCHOOL": "32K075",
-    "SCHOOL NAME": "P.S. 075 MAYDA CORTIELLA",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "76.65"
-  },
-  {
-    "SCHOOL": "32K086",
-    "SCHOOL NAME": "P.S. 086 THE IRVINGTON",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "89.97"
-  },
-  {
-    "SCHOOL": "32K106",
-    "SCHOOL NAME": "P.S. 106 EDWARD EVERETT HALE",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "74.43"
-  },
-  {
-    "SCHOOL": "32K116",
-    "SCHOOL NAME": "P.S. 116 ELIZABETH L FARRELL",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "82.33"
-  },
-  {
-    "SCHOOL": "32K123",
-    "SCHOOL NAME": "P.S. 123 SUYDAM",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "82.14"
-  },
-  {
-    "SCHOOL": "32K145",
-    "SCHOOL NAME": "P.S. 145 ANDREW JACKSON",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "86.87"
-  },
-  {
-    "SCHOOL": "32K151",
-    "SCHOOL NAME": "P.S. 151 LYNDON B. JOHNSON",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "82.15"
-  },
-  {
-    "SCHOOL": "32K162",
-    "SCHOOL NAME": "J.H.S. 162 THE WILLOUGHBY",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "95.80"
-  },
-  {
-    "SCHOOL": "32K274",
-    "SCHOOL NAME": "P.S. 274 KOSCIUSKO",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "83.75"
-  },
-  {
-    "SCHOOL": "32K291",
-    "SCHOOL NAME": "J.H.S. 291 ROLAND HAYES",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "71.14"
-  },
-  {
-    "SCHOOL": "32K299",
-    "SCHOOL NAME": "P.S. 299 THOMAS WARREN FIELD",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "78.40"
-  },
-  {
-    "SCHOOL": "32K347",
-    "SCHOOL NAME": "I.S. 347 SCHOOL OF HUMANITIES",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "84.61"
-  },
-  {
-    "SCHOOL": "32K349",
-    "SCHOOL NAME": "I.S. 349 MATH, SCIENCE   TECH.",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "79.60"
-  },
-  {
-    "SCHOOL": "32K376",
-    "SCHOOL NAME": "P.S. 376",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "87.63"
-  },
-  {
-    "SCHOOL": "32K377",
-    "SCHOOL NAME": "P.S. 377 ALEJANDRINA B. DE GAUTIER",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "62.82"
-  },
-  {
-    "SCHOOL": "32K383",
-    "SCHOOL NAME": "J.H.S. 383 PHILIPPA SCHUYLER",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "74.76"
-  },
-  {
-    "SCHOOL": "32K384",
-    "SCHOOL NAME": "P.S.  I.S. 384 FRANCES E. CARTER",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "82.50"
-  },
-  {
-    "SCHOOL": "32K554",
-    "SCHOOL NAME": "ALL CITY LEADERSHIP SECONDARY SCHOOL",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "NS"
-  },
-  {
-    "SCHOOL": "32K562",
-    "SCHOOL NAME": "EVERGREEN MIDDLE SCHOOL FOR URBAN EXPLORATION",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "92.11"
-  },
-  {
-    "SCHOOL": "75K004",
-    "SCHOOL NAME": "P.S. K004",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "73.94"
-  },
-  {
-    "SCHOOL": "75K036",
-    "SCHOOL NAME": "P.S. 36",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "70.99"
-  },
-  {
-    "SCHOOL": "75K053",
-    "SCHOOL NAME": "P.S. K053",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "76.34"
-  },
-  {
-    "SCHOOL": "75K077",
-    "SCHOOL NAME": "P.S. K077",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "75.60"
-  },
-  {
-    "SCHOOL": "75K140",
-    "SCHOOL NAME": "P.S. K140",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "68.05"
-  },
-  {
-    "SCHOOL": "75K141",
-    "SCHOOL NAME": "P.S. K141",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "72.65"
-  },
-  {
-    "SCHOOL": "75K231",
-    "SCHOOL NAME": "P.S. K231",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "89.59"
-  },
-  {
-    "SCHOOL": "75K368",
-    "SCHOOL NAME": "P.S. 368",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "69.95"
-  },
-  {
-    "SCHOOL": "75K369",
-    "SCHOOL NAME": "P.S. K369   COY L. COX SCHOOL",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "65.62"
-  },
-  {
-    "SCHOOL": "75K370",
-    "SCHOOL NAME": "P.S. 370",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "80.75"
-  },
-  {
-    "SCHOOL": "75K371",
-    "SCHOOL NAME": "P.S. 371   LILLIAN L. RASHKIS",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "52.42"
-  },
-  {
-    "SCHOOL": "75K372",
-    "SCHOOL NAME": "P.S. 372  THE CHILDREN S SCHOOL",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "85.79"
-  },
-  {
-    "SCHOOL": "75K373",
-    "SCHOOL NAME": "P.S. 373   BROOKLYN TRANSITION CENTER",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "73.21"
-  },
-  {
-    "SCHOOL": "75K396",
-    "SCHOOL NAME": "SID MILLER ACADEMY",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "69.62"
-  },
-  {
-    "SCHOOL": "75K721",
-    "SCHOOL NAME": "P.S. K721   BROOKLYN OCCUPATIONAL TRAINING CENTER",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "80.66"
-  },
-  {
-    "SCHOOL": "75K753",
-    "SCHOOL NAME": "P.S. K753   SCHOOL FOR CAREER DEVELOPMENT",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "56.78"
-  },
-  {
-    "SCHOOL": "75K771",
-    "SCHOOL NAME": "P.S. K771",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "80.58"
-  },
-  {
-    "SCHOOL": "75K811",
-    "SCHOOL NAME": "P.S. K811 CONNIE LEKAS SCHOOL",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "66.66"
-  },
-  {
-    "SCHOOL": "75M035",
-    "SCHOOL NAME": "P.S. 035",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "NS"
-  },
-  {
-    "SCHOOL": "75M079",
-    "SCHOOL NAME": "P.S. M079   HORAN SCHOOL",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "66.16"
-  },
-  {
-    "SCHOOL": "75M094",
-    "SCHOOL NAME": "P.S. M094",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "73.14"
-  },
-  {
-    "SCHOOL": "75M138",
-    "SCHOOL NAME": "P.S. 138",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "NS"
-  },
-  {
-    "SCHOOL": "75M169",
-    "SCHOOL NAME": "P.S. M169   ROBERT F. KENNEDY",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "66.56"
-  },
-  {
-    "SCHOOL": "75M226",
-    "SCHOOL NAME": "P.S. M226",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "80.28"
-  },
-  {
-    "SCHOOL": "75M721",
-    "SCHOOL NAME": "P.S. M721   MANHATTAN OCCUPATIONAL TRAINING CENTER",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "73.51"
-  },
-  {
-    "SCHOOL": "75M751",
-    "SCHOOL NAME": "MANHATTAN SCHOOL FOR CAREER DEVELOPMENT",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "65.16"
-  },
-  {
-    "SCHOOL": "75M811",
-    "SCHOOL NAME": "P.S. M811   MICKEY MANTLE SCHOOL",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "77.43"
-  },
-  {
-    "SCHOOL": "75Q004",
-    "SCHOOL NAME": "P.S. Q004",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "82.41"
-  },
-  {
-    "SCHOOL": "75Q009",
-    "SCHOOL NAME": "P.S. 009",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "79.60"
-  },
-  {
-    "SCHOOL": "75Q023",
-    "SCHOOL NAME": "P.S. Q023   QUEENS CHILDREN CENTER",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "75.00"
-  },
-  {
-    "SCHOOL": "75Q075",
-    "SCHOOL NAME": "ROBERT E. PEARY SCHOOL",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "77.98"
-  },
-  {
-    "SCHOOL": "75Q177",
-    "SCHOOL NAME": "P.S. Q177",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "83.70"
-  },
-  {
-    "SCHOOL": "75Q224",
-    "SCHOOL NAME": "P.S. Q224",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "82.28"
-  },
-  {
-    "SCHOOL": "75Q233",
-    "SCHOOL NAME": "P.S. Q233",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "84.47"
-  },
-  {
-    "SCHOOL": "75Q255",
-    "SCHOOL NAME": "P.S. Q255",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "85.74"
-  },
-  {
-    "SCHOOL": "75Q256",
-    "SCHOOL NAME": "P.S. Q256",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "63.14"
-  },
-  {
-    "SCHOOL": "75Q277",
-    "SCHOOL NAME": "THE RIVERVIEW SCHOOL",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "83.25"
-  },
-  {
-    "SCHOOL": "75Q721",
-    "SCHOOL NAME": "JOHN F. KENNEDY JR. SCHOOL",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "77.84"
-  },
-  {
-    "SCHOOL": "75Q752",
-    "SCHOOL NAME": "QUEENS TRANSITION CENTER",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "69.34"
-  },
-  {
-    "SCHOOL": "75Q811",
-    "SCHOOL NAME": "P.S. Q811",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "75.92"
-  },
-  {
-    "SCHOOL": "75Q993",
-    "SCHOOL NAME": "P.S. Q993",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "78.60"
-  },
-  {
-    "SCHOOL": "75R025",
-    "SCHOOL NAME": "SOUTH RICHMOND HIGH SCHOOL I.S. P.S. 25",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "48.58"
-  },
-  {
-    "SCHOOL": "75R037",
-    "SCHOOL NAME": "THE DAVID MARQUIS SCHOOL OF THE ARTS",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "82.99"
-  },
-  {
-    "SCHOOL": "75R373",
-    "SCHOOL NAME": "P.S. R373",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "78.94"
-  },
-  {
-    "SCHOOL": "75R721",
-    "SCHOOL NAME": "THE RICHARD H. HUNGERFORD SCHOOL",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "77.75"
-  },
-  {
-    "SCHOOL": "75X010",
-    "SCHOOL NAME": "P.S. X010",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "74.22"
-  },
-  {
-    "SCHOOL": "75X012",
-    "SCHOOL NAME": "P.S. X012 LEWIS AND CLARK SCHOOL",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "64.89"
-  },
-  {
-    "SCHOOL": "75X017",
-    "SCHOOL NAME": "P.S. X017",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "64.96"
-  },
-  {
-    "SCHOOL": "75X168",
-    "SCHOOL NAME": "P.S. 168",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "69.15"
-  },
-  {
-    "SCHOOL": "75X176",
-    "SCHOOL NAME": "P.S. X176",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "77.59"
-  },
-  {
-    "SCHOOL": "75X186",
-    "SCHOOL NAME": "P186X WALTER J. DAMROSCH SCHOOL",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "59.66"
-  },
-  {
-    "SCHOOL": "75X188",
-    "SCHOOL NAME": "P.S. X188",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "76.31"
-  },
-  {
-    "SCHOOL": "75X352",
-    "SCHOOL NAME": "THE VIDA BOGART SCHOOL FOR ALL CHILDREN",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "81.45"
-  },
-  {
-    "SCHOOL": "75X469",
-    "SCHOOL NAME": "P469X   THE BRONX SCHOOL FOR CONTINUOUS LEARNERS",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "68.97"
-  },
-  {
-    "SCHOOL": "75X596",
-    "SCHOOL NAME": "P.S. X596",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "80.21"
-  },
-  {
-    "SCHOOL": "75X721",
-    "SCHOOL NAME": "P.S. X721   STEPHEN MCSWEENEY SCHOOL",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "68.89"
-  },
-  {
-    "SCHOOL": "75X723",
-    "SCHOOL NAME": "P.S. 723",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "65.78"
-  },
-  {
-    "SCHOOL": "75X754",
-    "SCHOOL NAME": "J. M. RAPPORT SCHOOL CAREER DEVELOPMENT",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "45.94"
-  },
-  {
-    "SCHOOL": "75X811",
-    "SCHOOL NAME": "P.S. X811",
-    "ATTD DATE": "6/24/2022 12:00:00 AM",
-    "%ATTD": "64.43"
   }
 ]
